@@ -239,7 +239,7 @@ od.reader.jsonp_batch_data(20160803, "feat", {
     feat2637:
         "<h1 class=player>Burden of Liberty</h1><p class=flavor><b>Paragon Tier</b><br><b>Prerequisite</b>: 11th level, wilden, Nature's Aspect racial trait<br><b>Benefit</b>: When you use a wilden racial power, one ally within 5 squares of you can teleport to a square adjacent to you as a free action.<br></p><p class=publishedIn>Published in Player's Handbook 3, page(s) 186.</p>",
     feat3717:
-        "<h1 class=player>Burning Vapors</h1><p class=flavor><b>Prerequisite</b>: 11th level<br><b>Benefit</b>: You gain a +3 feat bonus to acid damage rolls. This bonus increases to +4 at 21st level.<br>    In addition, whenever you take acid damage from an attack, each enemy adjacent to you takes a -2 penalty to attack rolls until the end of its next turn.<br></p><p class=publishedIn>Published in Heroes of the Elemental Chaos, page(s) 142.</p>",
+        "<h1 class=player>Burning Vapors</h1><p class=flavor><b>Paragon Tier</b><br><b>Prerequisite</b>: 11th level<br><b>Benefit</b>: You gain a +3 feat bonus to acid damage rolls. This bonus increases to +4 at 21st level.<br>    In addition, whenever you take acid damage from an attack, each enemy adjacent to you takes a -2 penalty to attack rolls until the end of its next turn.<br></p><p class=publishedIn>Published in Heroes of the Elemental Chaos, page(s) 142.</p>",
     feat2017:
         "<h1 class=player>Chilling Oath</h1><p class=flavor><b>Paragon Tier</b><br><b>Prerequisite</b>: 11th level, shadar-kai, avenger, oath of enmity power<br><b>Benefit</b>: When you use oath of enmity, your target is also slowed until the end of your next turn.<br></p><p class=publishedIn>Published in Dragon Magazine 380, page(s) 65.</p>",
     feat837:
@@ -255,7 +255,7 @@ od.reader.jsonp_batch_data(20160803, "feat", {
     feat2497:
         "<h1 class=player>Fading Forces</h1><p class=flavor><b>Paragon Tier</b><br><b>Prerequisite</b>: 11th level, gnome, warlord<br><b>Benefit</b>: When an ally adjacent to you takes damage, you can use your fade away racial power as an immediate reaction and apply its effect to both you and the ally who was damaged.<br></p><p class=publishedIn>Published in Martial Power 2, page(s) 142.</p>",
     feat3657:
-        "<h1 class=player>Flitting Harrier</h1><p class=flavor><b>Prerequisite</b>: 11th level, pixie<br><b>Benefit</b>: When you enter or leave an enemy's space, you do not provoke an opportunity attack from that enemy.<br></p><p class=publishedIn>Published in Heroes of the Feywild, page(s) 128.</p>",
+        "<h1 class=player>Flitting Harrier</h1><p class=flavor><b>Paragon Tier</b><br><b>Prerequisite</b>: 11th level, pixie<br><b>Benefit</b>: When you enter or leave an enemy's space, you do not provoke an opportunity attack from that enemy.<br></p><p class=publishedIn>Published in Heroes of the Feywild, page(s) 128.</p>",
     feat1897:
         "<h1 class=player>Forceful Smash</h1><p class=flavor><b>Paragon Tier</b><br><b>Prerequisite</b>: 11th level, warden<br><b>Benefit</b>: Whenever you score a critical hit with a hammer or a mace, the target is knocked prone.<br></p><p class=publishedIn>Published in Primal Power, page(s) 144.</p>",
     feat1577:

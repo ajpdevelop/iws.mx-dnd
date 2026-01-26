@@ -4652,7 +4652,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat2145:
         "Alacrity of Fortune Paragon Tier Prerequisite : 11th level, ardent, Mantle of Clarity class feature Benefit : Whenever an ally within the radius of your Ardent Mantle makes a save, he or she can shift 1 square as a free action. Player's Handbook 3, page(s) 184.",
     feat1335:
-        "Alert Familiar [Familiar] Prerequisite : 11th level, Arcane Familiar Benefit : While your familiar is in passive mode, enemies don't gain the normal +2 bonus to attack rolls against you when they have combat advantage. Any other benefits derived from combat advantage still apply. Dragon Magazine 374, page(s) 32.",
+        "Alert Familiar [Familiar] Paragon Tier Prerequisite : 11th level, Arcane Familiar Benefit : While your familiar is in passive mode, enemies don't gain the normal +2 bonus to attack rolls against you when they have combat advantage. Any other benefits derived from combat advantage still apply. Dragon Magazine 374, page(s) 32.",
     feat2798:
         "Ancestral Battle Accuracy Paragon Tier Prerequisite : 11th level, elf Benefit : You can use your elven accuracy racial power to reroll the attack rolls of a single close or area weapon attack power against every target you choose while wielding a scimitar, double scimitar, falchion, shortbow or spear. Dragon Magazine 385, page(s) 64.",
     feat3330:
@@ -4688,7 +4688,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat2633:
         "Aspect of the Cultivator Paragon Tier Prerequisite : 11th level, wilden, Nature's Aspect racial trait Benefit : Replace one of your Nature's Aspect options with the aspect of the cultivator. You can use the balm of the cultivator power while you are in this aspect. Balm of the Cultivator Feat Utility Encounter ✦ Healing Immediate Reaction Close burst 5 Trigger : An enemy damages you with an attack Target : One ally in the burst Effect : The target can spend a healing surge. Player's Handbook 3, page(s) 184.",
     feat3529:
-        "Aspect of the Elements Prerequisite : 11th level, wilden, Nature's Aspect racial trait Benefit : Replace one of your Nature's Aspect options with the aspect of the elements. You can use the fury of the elements power while you are in this aspect. Fury of the Elements Feat Utility Encounter ✦ Varies Immediate Interrupt Personal Trigger : You are hit by an enemy attack that deals cold, fire, lightning, or thunder damage. Effect : You take half damage from the triggering attack. Until the end of your next turn, your next attack deals 1d6 extra damage of the type or types dealt by the triggering attack. Dragon Magazine 393.",
+        "Aspect of the Elements Paragon Tier Prerequisite : 11th level, wilden, Nature's Aspect racial trait Benefit : Replace one of your Nature's Aspect options with the aspect of the elements. You can use the fury of the elements power while you are in this aspect. Fury of the Elements Feat Utility Encounter ✦ Varies Immediate Interrupt Personal Trigger : You are hit by an enemy attack that deals cold, fire, lightning, or thunder damage. Effect : You take half damage from the triggering attack. Until the end of your next turn, your next attack deals 1d6 extra damage of the type or types dealt by the triggering attack. Dragon Magazine 393.",
     feat1967:
         "Assured Healing Paragon Tier Prerequisite : 11th level, cleric Benefit : When you miss with a divine attack power with the healing keyword, and that power has no effect on a miss, you or one ally within 5 squares of you regains hit points equal to your Charisma modifier. Dragon Magazine 379, page(s) 56.",
     feat1036:
@@ -4786,7 +4786,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat2211:
         "Burning Breath Paragon Tier Prerequisite : 11th level, dragonborn, dragon breath racial power that deals fire damage Benefit : Choose one creature hit by your dragon breath. That creature takes ongoing fire damage equal to your Constitution modifier (save ends). Player's Handbook Races: Dragonborn, page(s) 24.",
     feat3717:
-        "Burning Vapors Prerequisite : 11th level Benefit : You gain a +3 feat bonus to acid damage rolls. This bonus increases to +4 at 21st level. In addition, whenever you take acid damage from an attack, each enemy adjacent to you takes a -2 penalty to attack rolls until the end of its next turn. Heroes of the Elemental Chaos, page(s) 142.",
+        "Burning Vapors Paragon Tier Prerequisite : 11th level Benefit : You gain a +3 feat bonus to acid damage rolls. This bonus increases to +4 at 21st level. In addition, whenever you take acid damage from an attack, each enemy adjacent to you takes a -2 penalty to attack rolls until the end of its next turn. Heroes of the Elemental Chaos, page(s) 142.",
     feat954:
         "Called Shot Paragon Tier Prerequisite : 11th level, Prime Shot class feature Benefit : Whenever you successfully hit a target against whom you received your Prime Shot bonus, your attack deals an additional 5 damage. Dragon Magazine Annual, Dragon Magazine 368, page(s) 58.",
     feat1566:
@@ -4995,7 +4995,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat3258:
         "Elemental Spirit Adept Paragon Tier Prerequisite : 11th level, shaman, Elemental Spirit class feature Benefit : When your spirit companion disappears as a result of one of your shaman attack powers, you and your allies gain a +1 bonus to attack rolls against any enemy that was adjacent to the spirit. The bonus lasts until the end of your next turn. Dark Sun Campaign Setting, page(s) 114.",
     feat3445:
-        "Elusive Hexer Prerequisite : 11th level, eladrin, warlock, fey pact Benefit : When an enemy takes damage from your warlock's curse on your turn, you are invisible until the end of that turn. Dragon Magazine 390.",
+        "Elusive Hexer Paragon Tier Prerequisite : 11th level, eladrin, warlock, fey pact Benefit : When an enemy takes damage from your warlock's curse on your turn, you are invisible until the end of that turn. Dragon Magazine 390.",
     feat2495:
         "Elusive Movement Paragon Tier Prerequisite : 11th level, ranger or rogue Benefit : Whenever you end your turn at least 3 squares away from where you began your turn, you gain a +1 feat bonus to AC and Reflex until the start of your next turn. Martial Power 2, page(s) 142.",
     feat2799:
@@ -5088,7 +5088,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1688:
         "Fierce Vitality Paragon Tier Prerequisite : 11th level, revenant Benefit : If you drop to 0 or fewer hit points and choose to remain conscious due to Unnatural Vitality, you can remain conscious until you fail two death saving throws. Dragon Magazine 376, page(s) 42.",
     feat3728:
-        "Fiery Blood Prerequisite : 11th level Benefit : You gain a +3 feat bonus to fire damage rolls. This bonus increases to +4 at 21st level. In addition, whenever you take fire damage from an attack, each enemy adjacent to you takes 5 fire damage. This damage increases to 10 at 21st level. Heroes of the Elemental Chaos, page(s) 144.",
+        "Fiery Blood Paragon Tier Prerequisite : 11th level Benefit : You gain a +3 feat bonus to fire damage rolls. This bonus increases to +4 at 21st level. In addition, whenever you take fire damage from an attack, each enemy adjacent to you takes 5 fire damage. This damage increases to 10 at 21st level. Heroes of the Elemental Chaos, page(s) 144.",
     feat211:
         "Fiery Rebuke Paragon Tier Prerequisite : 11th level, Tiefling, infernal wrath racial power Benefit : When you use the infernal wrath power, the target takes 5 extra fire damage. Player's Handbook, page(s) 203.",
     feat2501:
@@ -5098,7 +5098,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat938:
         "Flickering Shroud Paragon Tier Prerequisite : 11th level, drow, darkfire racial power Benefit : When you use your darkfire racial power, you can alter its effects to grant the target a +2 bonus to AC and Reflex until the end of your next turn. Dragon Magazine 367, page(s) 38.",
     feat3657:
-        "Flitting Harrier Prerequisite : 11th level, pixie Benefit : When you enter or leave an enemy's space, you do not provoke an opportunity attack from that enemy. Heroes of the Feywild, page(s) 128.",
+        "Flitting Harrier Paragon Tier Prerequisite : 11th level, pixie Benefit : When you enter or leave an enemy's space, you do not provoke an opportunity attack from that enemy. Heroes of the Feywild, page(s) 128.",
     feat2199:
         "Flitting Shadows Paragon Tier Prerequisite : 11th level, warlock, Warlock's Curse class feature. Benefit : Whenever you hit an enemy under your Warlock's Curse with an encounter or daily warlock power, you can reduce the Warlock's Curse damage you deal to teleport the target. You can teleport the target 3 squares for each die of Warlock's Curse damage you give up. Dragon Magazine 382, page(s) 52.",
     feat1574:
@@ -5158,7 +5158,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1041:
         "Guardian Spirit Paragon Tier Prerequisite : 11th level, shaman, Protector Spirit class feature Benefit : While any unconscious ally is adjacent to your spirit companion, he or she gains resist 20 to all damage and a +2 bonus to death saving throws. Player's Handbook 2, page(s) 191.",
     feat3660:
-        "Guardian of the Weeping Willow Prerequisite : 11th level, hamadryad, hamadryad aspects racial power Benefit : If your hamadryad aspects is not expended, you can use an immediate interrupt to negate a pull, push, or slide against you. Doing so expends hamadryad aspects. Heroes of the Feywild, page(s) 128.",
+        "Guardian of the Weeping Willow Paragon Tier Prerequisite : 11th level, hamadryad, hamadryad aspects racial power Benefit : If your hamadryad aspects is not expended, you can use an immediate interrupt to negate a pull, push, or slide against you. Doing so expends hamadryad aspects. Heroes of the Feywild, page(s) 128.",
     feat2560:
         "Gusting Rebuke Paragon Tier Prerequisite : 11th level, warden, Stormheart class feature Benefit : When an enemy adjacent to you that is marked by you hits and damages one of your allies with an attack that does not include you as a target, you can push the enemy a number of squares equal to your Constitution modifier as an immediate reaction. Dragon Magazine 383, page(s) 62.",
     feat851:
@@ -5200,7 +5200,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat554:
         "Hunting Wolf Form Paragon Tier Prerequisite : 11th level, druid, wild shape power Benefit : While you are in beast form, you gain a +5 feat bonus to Perception checks and a +1 feat bonus to speed. Player's Handbook 2, page(s) 191.",
     feat3730:
-        "Icy Heart Prerequisite : 11th level Benefit : You gain a +3 feat bonus to cold damage rolls. This bonus increases to +4 at 21st level. In addition, whenever you take cold damage from an attack, each enemy within 2 squares of you becomes slowed until the end of your next turn. Heroes of the Elemental Chaos, page(s) 144.",
+        "Icy Heart Paragon Tier Prerequisite : 11th level Benefit : You gain a +3 feat bonus to cold damage rolls. This bonus increases to +4 at 21st level. In addition, whenever you take cold damage from an attack, each enemy within 2 squares of you becomes slowed until the end of your next turn. Heroes of the Elemental Chaos, page(s) 144.",
     feat1356:
         "Immortal Prowess Epic Tier Prerequisite : 21st level, deva, Immortal Resilience Benefit : When using memory of a thousand lifetimes to modify an attack roll, you treat a result that is lower than the average for the die you roll—3 for d6 or 4 for d8—as the average. Dragon Magazine 374, page(s) 50.",
     feat1353:
@@ -5232,9 +5232,9 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1178:
         "Improved Staff of Defense Paragon Tier Prerequisite : 11th level, Con 13, Dex 13, wizard, Staff of Defense class feature Benefit : While you wield a staff, you gain a +1 bonus to Fortitude, Reflex, and Will. Arcane Power, page(s) 131.",
     feat3542:
-        "Improved Steed (Celestial Behemoth) Prerequisite : 11th level, call celestial steed power Benefit : When you use your call celestial steed power, you can choose to summon a celestial behemoth instead of a celestial warhorse. Dragon Magazine 393.",
+        "Improved Steed (Celestial Behemoth) Paragon Tier Prerequisite : 11th level, call celestial steed power Benefit : When you use your call celestial steed power, you can choose to summon a celestial behemoth instead of a celestial warhorse. Dragon Magazine 393.",
     feat3543:
-        "Improved Steed (Celestial Pegasus) Prerequisite : 11th level, call celestial steed power Benefit : When you use your call celestial steed power, you can choose to summon a celestial pegasus instead of a celestial warhorse. Dragon Magazine 393.",
+        "Improved Steed (Celestial Pegasus) Paragon Tier Prerequisite : 11th level, call celestial steed power Benefit : When you use your call celestial steed power, you can choose to summon a celestial pegasus instead of a celestial warhorse. Dragon Magazine 393.",
     feat1179:
         "Improved Tome of Binding Paragon Tier Prerequisite : 11th level, Con 15, wizard, Tome of Binding class feature Benefit : While you wield a tome, creatures created by your arcane summoning powers appear with 10 temporary hit points. Arcane Power, page(s) 131.",
     feat1180:
@@ -5292,7 +5292,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat317:
         "Lightning Arc Paragon Tier Prerequisite : 11th level Benefit : When you score a critical hit with a power that has the lightning keyword, you can choose to treat the attack as a normal hit instead of a critical hit. If you do, choose another target within 10 squares of the original target that was not already targeted or affected by the power. That target takes damage equal to the damage dealt to the original target. Player's Handbook, page(s) 204.",
     feat3732:
-        "Lightning Soul Prerequisite : 11th level Benefit : You gain a +3 feat bonus to lightning damage rolls. This bonus increases to +4 at 21st level. In addition, whenever you take lightning damage from an attack, one enemy within 5 squares of you takes 10 lightning damage. This damage increases to 15 at 21st level. Heroes of the Elemental Chaos, page(s) 144.",
+        "Lightning Soul Paragon Tier Prerequisite : 11th level Benefit : You gain a +3 feat bonus to lightning damage rolls. This bonus increases to +4 at 21st level. In addition, whenever you take lightning damage from an attack, one enemy within 5 squares of you takes 10 lightning damage. This damage increases to 15 at 21st level. Heroes of the Elemental Chaos, page(s) 144.",
     feat2000:
         "Lightning Transport Paragon Tier Prerequisite : 11th level, Con 13, wizard Benefit : When you reduce a creature to 0 hit points or fewer with a wizard lightning power, you can teleport a number of squares equal to your Constitution modifier as a free action. Dragon Magazine 380, page(s) 42.",
     feat2273:
@@ -5548,7 +5548,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat2662:
         "Secret of Escape Paragon Tier Prerequisite : 11th level, wilden Benefit : Once per day when you drop to 0 hit points or fewer and don't die, you can teleport to a square adjacent to an ally within 10 squares of you. Player's Handbook 3, page(s) 189.",
     feat2311:
-        "Secrets of Belial Prerequisite : 11th level, tiefling Benefit : Choose a class that you don't already belong to. You can swap one utility power you know for one utility power of the same level or lower from the chosen class. Player's Handbook Races: Tiefling, page(s) 28.",
+        "Secrets of Belial Paragon Tier Prerequisite : 11th level, tiefling Benefit : Choose a class that you don't already belong to. You can swap one utility power you know for one utility power of the same level or lower from the chosen class. Player's Handbook Races: Tiefling, page(s) 28.",
     feat32: "Seize the Moment Paragon Tier Prerequisite : 11th level, Dex 17 Benefit : During the first round of combat and during surprise rounds, you automatically gain combat advantage over a foe whose initiative result is lower than yours. Player's Handbook, page(s) 205.",
     feat1904:
         "Sentinel Spirit Paragon Tier Prerequisite : 11th level, shaman, Watcher Spirit class feature Benefit : Allies gain a +2 bonus to attack rolls when making opportunity attacks while adjacent to your spirit companion. Primal Power, page(s) 145.",
@@ -5701,11 +5701,11 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat3364:
         "Threefold Will [Augment] Paragon Tier Prerequisite : 11th level, Psionic Augmentation class feature Benefit : You gain a +1 feat bonus to Will. During your turn, you can spend 1 power point to increase the bonus to +3 until the end of your next turn. Psionic Power, page(s) 138.",
     feat3765:
-        "Thri-Kreen Scuttling Master Prerequisite : 11th level, Thri-Kreen Scuttler feat Benefit : You can shift while prone. While you are prone, you do not take the -5 penalty to Stealth checks for moving more than 2 squares. Dragon Magazine 411.",
+        "Thri-Kreen Scuttling Master Paragon Tier Prerequisite : 11th level, Thri-Kreen Scuttler feat Benefit : You can shift while prone. While you are prone, you do not take the -5 penalty to Stealth checks for moving more than 2 squares. Dragon Magazine 411.",
     feat3264:
         "Thrill of the Kill Paragon Tier Prerequisite : 11th level, gladiator theme Benefit : Whenever you bloody an enemy or reduce an enemy to 0 hit points, you can use a free action to expend your second wind. If you do, you do not gain the benefit of your second wind but can instead make a saving throw against an effect that a save can end. Dark Sun Campaign Setting, page(s) 115.",
     feat3735:
-        "Thunder's Rumble Prerequisite : 11th level Benefit : You gain a +3 feat bonus to thunder damage rolls. This bonus increases to +4 at 21st level. In addition, whenever you take thunder damage from an attack, you can push each creature adjacent to you 1 square. Heroes of the Elemental Chaos, page(s) 145.",
+        "Thunder's Rumble Paragon Tier Prerequisite : 11th level Benefit : You gain a +3 feat bonus to thunder damage rolls. This bonus increases to +4 at 21st level. In addition, whenever you take thunder damage from an attack, you can push each creature adjacent to you 1 square. Heroes of the Elemental Chaos, page(s) 145.",
     feat2217:
         "Thundering Breath Paragon Tier Prerequisite : 11th level, dragonborn, dragon breath racial power that deals lightning damage Benefit : Your dragon breath deals thunder and lightning damage. You can push each target hit by your dragon breath a number of squares equal to your Constitution modifier. Player's Handbook Races: Dragonborn, page(s) 25.",
     feat1909:
@@ -5784,7 +5784,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1191:
         "Vigorous Assault Paragon Tier Prerequisite : 11th level, swordmage, aegis of assault power Benefit : When you use your aegis of assault to teleport, you gain temporary hit points equal to 3 + your Strength modifier. Arcane Power, page(s) 133.",
     feat1710:
-        "Vigorous Familiar [Familiar] Heroic Tier Prerequisite : 11th level, artificer, Arcane Familiar feat, Mark of Handling feat or member of House Vadalis Benefit : Your knowledge of House Vadalis's beast breeding techniques allows you to form your familiar with greater speed and resilience. Your familiar gains a +2 feat bonus to speed and a +1 feat bonus to AC. Dragon Magazine 377, page(s) 35.",
+        "Vigorous Familiar [Familiar] Heroic Tier Paragon Tier Prerequisite : 11th level, artificer, Arcane Familiar feat, Mark of Handling feat or member of House Vadalis Benefit : Your knowledge of House Vadalis's beast breeding techniques allows you to form your familiar with greater speed and resilience. Your familiar gains a +2 feat bonus to speed and a +1 feat bonus to AC. Dragon Magazine 377, page(s) 35.",
     feat3366:
         "Violent Joy Paragon Tier Prerequisite : 11th level, ardent, ardent surge power, Mantle of Elation class feature Benefit : When you target a bloodied ally with your ardent surge and that ally regains enough hit points to no longer be bloodied, he or she can score critical hits with melee attacks on a roll of 19–20 until the end of your next turn. Psionic Power, page(s) 139.",
     feat1913:
