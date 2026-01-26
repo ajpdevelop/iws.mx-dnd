@@ -68,7 +68,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat3049:
         "Aggressive Spirit Heroic Tier Prerequisite : Shaman Benefit : Whenever you reduce an enemy to 0 hit points with a spirit attack power, you can teleport your spirit companion 10 squares to a square adjacent to an enemy as a free action. Dragon Magazine 387, page(s) 13.",
     feat2542:
-        "Agile Brawler [Multiclass Fighter] Heroic Tier Prerequisite : Any multiclass fighter feat, paragon multiclassing as a fighter Benefit : You gain the fighter class feature Combat Agility. Martial Power 2, page(s) 145.",
+        "Agile Brawler [Multiclass Fighter] Paragon Tier Prerequisite : Any multiclass fighter feat, paragon multiclassing as a fighter Benefit : You gain the fighter class feature Combat Agility. Martial Power 2, page(s) 145.",
     feat1822:
         "Agile Form Heroic Tier Prerequisite : Druid, wild shape power Benefit : When you use wild shape to change from your humanoid form to beast form, you shift 1 square. Primal Power, page(s) 136.",
     feat280:
@@ -134,7 +134,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1425:
         "Arcana Ward [Divinity] Prerequisite : Channel Divinity class feature, must worship a deity of the arcana domain Benefit : You gain the Channel Divinity power arcana ward. Arcana Ward Feat Utility Encounter ✦ Divine Immediate Interrupt Personal Channel Divinity : You can use only one channel divinity power per encounter Trigger : You are hit by an attack that deals acid, cold, fire, lightning, or thunder damage to you Effect : Until the end of your next turn, you gain resist 5 to a damage type of your choice: acid, cold, fire, lightning, or thunder. Level 11: Resist 10. Level 21: Resist 15. Divine Power, page(s) 109.",
     feat1217:
-        "Arcane Aegis [Multiclass Swordmage] Prerequisite : Any multiclass swordmage feat, paragon multiclassing as a swordmage Benefit : Choose a Swordmage Aegis power. You can use that power once per encounter. Arcane Power, page(s) 135.",
+        "Arcane Aegis [Multiclass Swordmage] Paragon Tier Prerequisite : Any multiclass swordmage feat, paragon multiclassing as a swordmage Benefit : Choose a Swordmage Aegis power. You can use that power once per encounter. Arcane Power, page(s) 135.",
     feat738:
         "Arcane Familiar [Familiar] Prerequisite : Any arcane class Benefit : You gain a familiar. For each familiar feat you have beyond this one, your familiar gains a +1 bonus to its defenses. Arcane Power, page(s) 139, Heroes of the Feywild, page(s) 126, Heroes of the Elemental Chaos, page(s) 142.",
     feat1113:
@@ -308,7 +308,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat2566:
         "Battering Shield Heroic Tier Prerequisite : Proficiency with heavy shields Benefit : When you are wielding a heavy shield and push or slide a target with a melee attack, you can move that target 1 additional square. Player's Handbook 3, page(s) 177.",
     feat910:
-        "Battle Acumen [Multiclass Fighter] Prerequisite : Any multiclass fighter feat, paragon multiclassing as a fighter Benefit : You gain the fighter's Combat Superiority class feature. Martial Power, page(s) 149.",
+        "Battle Acumen [Multiclass Fighter] Paragon Tier Prerequisite : Any multiclass fighter feat, paragon multiclassing as a fighter Benefit : You gain the fighter's Combat Superiority class feature. Martial Power, page(s) 149.",
     feat911:
         "Battle Awareness [Multiclass Fighter] Prerequisite : Str 13, Wis 13 Benefit : You gain training in one skill from the fighter's class skill list. Once per encounter, whenever an enemy that is adjacent to you shifts or makes an attack that does not include you as a target, you can make a melee basic attack against that enemy as an immediate interrupt. Battle Awareness Feat Feat Utility Encounter ✦ Weapon Immediate Interrupt Melee weapon Trigger : An enemy that is adjacent to you shifts or makes an attack that does not include you as a target. Effect : You make a melee basic attack against the triggering enemy. Martial Power, page(s) 149.",
     feat3645:
@@ -324,7 +324,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1495:
         "Battle Healer Heroic Tier Prerequisite : Cleric, healing word power Benefit : When you use your healing word, you regain hit points equal to your Strength modifier. Divine Power, page(s) 130.",
     feat433:
-        "Battle Instructor [Multiclass Warlord] Prerequisite : Any multiclass warlord feat, paragon multiclassing as a warlord Benefit : You gain the warlord's Combat Leader class feature. Martial Power, page(s) 149.",
+        "Battle Instructor [Multiclass Warlord] Paragon Tier Prerequisite : Any multiclass warlord feat, paragon multiclassing as a warlord Benefit : You gain the warlord's Combat Leader class feature. Martial Power, page(s) 149.",
     feat1346:
         "Battle Intuition Heroic Tier Prerequisite : Deva Benefit : You can use your Wisdom modifier in place of your Dexterity modifier to determine your initiative bonus. Additionally, you gain a +2 feat bonus to initiative checks. Dragon Magazine 374, page(s) 49.",
     feat3740:
@@ -654,13 +654,13 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1502:
         "Channel Might Heroic Tier Prerequisite : Paladin Benefit : After you use a Channel Divinity power, you gain a +1 power bonus to your next melee attack roll made before the end of your next turn. Divine Power, page(s) 131.",
     feat1622:
-        "Channel of Faith [Multiclass Cleric] Prerequisite : Any multiclass cleric feat, paragon multiclassing as a cleric Benefit : You gain the cleric Channel Divinity powers divine fortune and turn undead. If you don't already have the Channel Divinity class feature, you can use a single Channel Divinity power once per encounter, and you're considered to have the class feature for the purpose of meeting prerequisites. Divine Power, page(s) 143.",
+        "Channel of Faith [Multiclass Cleric] Paragon Tier Prerequisite : Any multiclass cleric feat, paragon multiclassing as a cleric Benefit : You gain the cleric Channel Divinity powers divine fortune and turn undead. If you don't already have the Channel Divinity class feature, you can use a single Channel Divinity power once per encounter, and you're considered to have the class feature for the purpose of meeting prerequisites. Divine Power, page(s) 143.",
     feat1623:
-        "Channel of Invocation [Multiclass Invoker] Prerequisite : Any multiclass invoker feat, paragon multiclassing as an invoker Benefit : You gain the invoker Channel Divinity powers armor of wrath and preserver's rebuke. If you don't already have the Channel Divinity class feature, you can use a single Channel Divinity power once per encounter, and you're considered to have the class feature for the purpose of meeting prerequisites. Divine Power, page(s) 143.",
+        "Channel of Invocation [Multiclass Invoker] Paragon Tier Prerequisite : Any multiclass invoker feat, paragon multiclassing as an invoker Benefit : You gain the invoker Channel Divinity powers armor of wrath and preserver's rebuke. If you don't already have the Channel Divinity class feature, you can use a single Channel Divinity power once per encounter, and you're considered to have the class feature for the purpose of meeting prerequisites. Divine Power, page(s) 143.",
     feat1624:
-        "Channel of Valor [Multiclass Paladin] Prerequisite : Any multiclass paladin feat, paragon multiclassing as a paladin Benefit : You gain the paladin Channel Divinity powers divine mettle and divine strength. If you don't already have the Channel Divinity class feature, you can use a single Channel Divinity power once per encounter, and you're considered to have the class feature for the purpose of meeting prerequisites. Divine Power, page(s) 144.",
+        "Channel of Valor [Multiclass Paladin] Paragon Tier Prerequisite : Any multiclass paladin feat, paragon multiclassing as a paladin Benefit : You gain the paladin Channel Divinity powers divine mettle and divine strength. If you don't already have the Channel Divinity class feature, you can use a single Channel Divinity power once per encounter, and you're considered to have the class feature for the purpose of meeting prerequisites. Divine Power, page(s) 144.",
     feat1625:
-        "Channel of Vengeance [Multiclass Avenger] Prerequisite : Any multiclass avenger feat, paragon multiclassing as an avenger Benefit : You gain the avenger Channel Divinity powers abjure undead and divine guidance. If you don't already have the Channel Divinity class feature, you can use a single Channel Divinity power once per encounter, and you're considered to have the class feature for the purpose of meeting prerequisites. Divine Power, page(s) 144.",
+        "Channel of Vengeance [Multiclass Avenger] Paragon Tier Prerequisite : Any multiclass avenger feat, paragon multiclassing as an avenger Benefit : You gain the avenger Channel Divinity powers abjure undead and divine guidance. If you don't already have the Channel Divinity class feature, you can use a single Channel Divinity power once per encounter, and you're considered to have the class feature for the purpose of meeting prerequisites. Divine Power, page(s) 144.",
     feat3026:
         "Charging Admixture Heroic Tier Prerequisite : Minotaur, artificer, curative admixture power Benefit : When you use curative admixture, the target gains a +2 bonus to damage rolls on charge attacks until the end of your next turn. At 11th level, the bonus improves to +3. At 21st level, the bonus improves to +4. Dragon Magazine 387, page(s) 33.",
     feat600:
@@ -777,7 +777,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat3117:
         "Courageous Mind Heroic Tier Prerequisite : Human, any psionic class Benefit : You gain a +2 bonus to initiative. In addition, you gain a +1 bonus to saving throws while you are bloodied. Dragon Magazine 388.",
     feat913:
-        "Courageous Shooter [Multiclass Ranger] Prerequisite : Any multiclass ranger feat, paragon multiclassing as a ranger Benefit : You gain the ranger's Prime Shot class feature. Martial Power, page(s) 149.",
+        "Courageous Shooter [Multiclass Ranger] Paragon Tier Prerequisite : Any multiclass ranger feat, paragon multiclassing as a ranger Benefit : You gain the ranger's Prime Shot class feature. Martial Power, page(s) 149.",
     feat2052:
         "Courageous Word Heroic Tier Prerequisite : Warlord, Bravura Presence class feature, inspiring word power Benefit : When you use inspiring word, the target can choose to take advantage of this feat. If the target does, he or she grants combat advantage until the start of your next turn but deals extra damage equal to your Charisma modifier against the next enemy he or she hits before the end of your next turn. Dragon Magazine 381, page(s) 29.",
     feat2027:
@@ -1588,7 +1588,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1698:
         "Firequench Aspirant Heroic Tier Prerequisite : Tarmalune regional background Benefit : You gain resist fire 2. At 11th level, this resistance improves to 5. At 21st level, this resistance improves to 8. In addition, you master the ritual Arcane Mark (see the Forgotten Realms Player's Guide) and can perform it without a ritual book. Dragon Magazine 376, page(s) 50.",
     feat914:
-        "First In [Multiclass Rogue] Prerequisite : Any multiclass rogue feat, paragon multiclassing as a rogue Benefit : You gain the rogue's First Strike class feature. Martial Power, page(s) 149.",
+        "First In [Multiclass Rogue] Paragon Tier Prerequisite : Any multiclass rogue feat, paragon multiclassing as a rogue Benefit : You gain the rogue's First Strike class feature. Martial Power, page(s) 149.",
     feat3603:
         "Flail Expertise Benefit : You gain a +1 feat bonus to weapon attack rolls that you make with a flail. This bonus increases to +2 at 11th level and +3 at 21st level. In addition, when you hit with a melee weapon attack using a flail and the attack lets you slide the target, you can knock the target prone instead of sliding it. Mordenkainen's Magnificent Emporium, page(s) 23.",
     feat3604:
@@ -1954,7 +1954,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat290:
         "Healing Hands Heroic Tier Prerequisite : Paladin, lay on hands power Benefit : When you use the lay on hands power, the affected ally gains additional hit points equal to your Charisma modifier. Player's Handbook, page(s) 195.",
     feat1219:
-        "Healing Song [Multiclass Bard] Prerequisite : Any multiclass bard feat, paragon multiclassing as a bard Benefit : You gain the bard's Song of Rest and Skill Versatility class features. Arcane Power, page(s) 136.",
+        "Healing Song [Multiclass Bard] Paragon Tier Prerequisite : Any multiclass bard feat, paragon multiclassing as a bard Benefit : You gain the bard's Song of Rest and Skill Versatility class features. Arcane Power, page(s) 136.",
     feat1532:
         "Healing Step Heroic Tier Prerequisite : Eladrin, any divine class Benefit : When you use your fey step racial power, one ally adjacent to either your original space or your destination space gains temporary hit points equal to your Intelligence modifier and can shift 1 square as a free action. Divine Power, page(s) 135.",
     feat1220:
@@ -2138,7 +2138,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat3142:
         "Implement Focus Benefit : Choose an implement with which you have proficiency. You gain a +1 feat bonus to the damage rolls of implement attacks that you make with the chosen implement. This bonus increases to +2 at 11th level and +3 at 21st level. Special : You can choose this feat more than once. Each time you select this feat, choose another implement with which you have proficiency. Heroes of the Fallen Lands, page(s) 314, Heroes of the Forgotten Kingdoms, page(s) 315.",
     feat1221:
-        "Implement Master [Multiclass Wizard] Prerequisite : Any multiclass wizard feat, paragon multiclassing as a wizard Benefit : You gain the wizard's Arcane Implement Mastery class feature. Arcane Power, page(s) 136.",
+        "Implement Master [Multiclass Wizard] Paragon Tier Prerequisite : Any multiclass wizard feat, paragon multiclassing as a wizard Benefit : You gain the wizard's Arcane Implement Mastery class feature. Arcane Power, page(s) 136.",
     feat1078:
         "Improved Armor of Faith Heroic Tier Prerequisite : Avenger, armor of faith feature Benefit : While you are wearing cloth armor or no armor and aren't using a shield, you gain a +1 bonus to AC. Also, replace the first sentence with the following: “While you are wearing cloth armor or no armor and aren't using a shield, you gain a +1 bonus to AC.” Player's Handbook 2, page(s) 185.",
     feat2600:
@@ -3747,7 +3747,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1028:
         "Sorcerous Blade Channeling Heroic Tier Prerequisite : Sorcerer Benefit : When you use any ranged sorcerer attack power through a dagger, you can use the power as a melee attack. If you do so, the power's range equals your melee reach. Player's Handbook 2, page(s) 189.",
     feat1223:
-        "Sorcerous Power [Multiclass Sorcerer] Prerequisite : Any multiclass sorcerer feat, paragon multiclassing as a sorcerer Benefit : You gain a bonus to the damage rolls of arcane powers equal to your Strength modifier or your Dexterity modifier. At 21st level, this bonus increases by 2. Arcane Power, page(s) 136.",
+        "Sorcerous Power [Multiclass Sorcerer] Paragon Tier Prerequisite : Any multiclass sorcerer feat, paragon multiclassing as a sorcerer Benefit : You gain a bonus to the damage rolls of arcane powers equal to your Strength modifier or your Dexterity modifier. At 21st level, this bonus increases by 2. Arcane Power, page(s) 136.",
     feat1224:
         "Soul of Sorcery [Multiclass Sorcerer] Prerequisite : Str 13, Cha 13 Benefit : Choose acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder. You gain resist 5 to that damage type. In addition, you can wield sorcerer implements. Arcane Power, page(s) 136.",
     feat3574:
@@ -4404,7 +4404,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat3674:
         "Walk among Men Prerequisite : Satyr Benefit : During a short rest, you can change your appearance to that of a male human, eladrin, or elf. Your face and build remain recognizably yours, but you otherwise appear to be a member of the chosen race. This illusion lasts until you end it as a minor action or until you die. Heroes of the Feywild, page(s) 130.",
     feat1226:
-        "Walker in Gloom [Multiclass Warlock] Prerequisite : Any multiclass warlock feat, paragon multiclassing as a warlock Benefit : You gain the warlock's Shadow Walk class feature. Arcane Power, page(s) 136.",
+        "Walker in Gloom [Multiclass Warlock] Paragon Tier Prerequisite : Any multiclass warlock feat, paragon multiclassing as a warlock Benefit : You gain the warlock's Shadow Walk class feature. Arcane Power, page(s) 136.",
     feat3618:
         "Walker of the Dark Path [Multiclass Paladin] Benefit : You gain training in one skill from the blackguard paladin's class skills list. You also gain proficiency with holy symbols. Once per encounter, when you make a weapon attack against an enemy granting combat advantage to you, that enemy takes extra damage equal to your Charisma modifier. You can use shroud of shadow as a daily power. Dragon Magazine 402.",
     feat1275:
@@ -4524,7 +4524,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1885:
         "Wild Sage Heroic Tier Prerequisite : Trained in Nature Benefit : You gain a +5 feat bonus to Nature knowledge checks and to monster knowledge checks to identify a natural creatures. In addition, choose one of the following rituals: Dowsing Rod, Portend Weather, or Traveler's Camouflage. You master that ritual and can perform it once per day without a ritual book and without expending components. Primal Power, page(s) 143.",
     feat3394:
-        "Wild Savant [Multiclass Battlemind] Prerequisite : Any multiclass battlemind feat, paragon multiclassing as a battlemind Benefit : Choose a power granted by a battlemind Psionic Study. You can use that power once per day. Psionic Power, page(s) 141.",
+        "Wild Savant [Multiclass Battlemind] Paragon Tier Prerequisite : Any multiclass battlemind feat, paragon multiclassing as a battlemind Benefit : Choose a power granted by a battlemind Psionic Study. You can use that power once per day. Psionic Power, page(s) 141.",
     feat1033:
         "Wild Senses Heroic Tier Prerequisite : Shifter Benefit : Whenever you make a Perception check to find tracks, you roll twice and use either result. You also gain a +3 feat bonus to initiative checks. Player's Handbook 2, page(s) 190.",
     feat3247:

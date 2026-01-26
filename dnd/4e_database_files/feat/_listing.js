@@ -154,7 +154,7 @@ od.reader.jsonp_data_listing(
         [
             "feat2542",
             "Agile Brawler",
-            "Heroic",
+            "Paragon",
             "Any multiclass fighter feat, paragon multiclassing as a fighter",
             "MP2",
         ],
@@ -295,7 +295,7 @@ od.reader.jsonp_data_listing(
         [
             "feat1217",
             "Arcane Aegis",
-            "Heroic",
+            "Paragon",
             "Any multiclass swordmage feat, paragon multiclassing as a swordmage",
             "AP",
         ],
@@ -778,7 +778,7 @@ od.reader.jsonp_data_listing(
         [
             "feat910",
             "Battle Acumen",
-            "Heroic",
+            "Paragon",
             "Any multiclass fighter feat, paragon multiclassing as a fighter",
             "MP",
         ],
@@ -810,7 +810,7 @@ od.reader.jsonp_data_listing(
         [
             "feat433",
             "Battle Instructor",
-            "Heroic",
+            "Paragon",
             "Any multiclass warlord feat, paragon multiclassing as a warlord",
             "MP",
         ],
@@ -1569,28 +1569,28 @@ od.reader.jsonp_data_listing(
         [
             "feat1622",
             "Channel of Faith",
-            "Heroic",
+            "Paragon",
             "Any multiclass cleric feat, paragon multiclassing as a cleric",
             "DP",
         ],
         [
             "feat1623",
             "Channel of Invocation",
-            "Heroic",
+            "Paragon",
             "Any multiclass invoker feat, paragon multiclassing as an invoker",
             "DP",
         ],
         [
             "feat1624",
             "Channel of Valor",
-            "Heroic",
+            "Paragon",
             "Any multiclass paladin feat, paragon multiclassing as a paladin",
             "DP",
         ],
         [
             "feat1625",
             "Channel of Vengeance",
-            "Heroic",
+            "Paragon",
             "Any multiclass avenger feat, paragon multiclassing as an avenger",
             "DP",
         ],
@@ -1883,7 +1883,7 @@ od.reader.jsonp_data_listing(
         [
             "feat913",
             "Courageous Shooter",
-            "Heroic",
+            "Paragon",
             "Any multiclass ranger feat, paragon multiclassing as a ranger",
             "MP",
         ],
@@ -4073,7 +4073,7 @@ od.reader.jsonp_data_listing(
         [
             "feat914",
             "First In",
-            "Heroic",
+            "Paragon",
             "Any multiclass rogue feat, paragon multiclassing as a rogue",
             "MP",
         ],
@@ -5030,7 +5030,7 @@ od.reader.jsonp_data_listing(
         [
             "feat1219",
             "Healing Song",
-            "Heroic",
+            "Paragon",
             "Any multiclass bard feat, paragon multiclassing as a bard",
             "AP",
         ],
@@ -5489,7 +5489,7 @@ od.reader.jsonp_data_listing(
         [
             "feat1221",
             "Implement Master",
-            "Heroic",
+            "Paragon",
             "Any multiclass wizard feat, paragon multiclassing as a wizard",
             "AP",
         ],
@@ -9722,7 +9722,7 @@ od.reader.jsonp_data_listing(
         [
             "feat1223",
             "Sorcerous Power",
-            "Heroic",
+            "Paragon",
             "Any multiclass sorcerer feat, paragon multiclassing as a sorcerer",
             "AP",
         ],
@@ -11299,7 +11299,7 @@ od.reader.jsonp_data_listing(
         [
             "feat1226",
             "Walker in Gloom",
-            "Heroic",
+            "Paragon",
             "Any multiclass warlock feat, paragon multiclassing as a warlock",
             "AP",
         ],
@@ -11587,7 +11587,7 @@ od.reader.jsonp_data_listing(
         [
             "feat3394",
             "Wild Savant",
-            "Heroic",
+            "Paragon",
             "Any multiclass battlemind feat, paragon multiclassing as a battlemind",
             "PsP",
         ],

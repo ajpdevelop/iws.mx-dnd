@@ -4,7 +4,7 @@ od.reader.jsonp_batch_data(20160803, "feat", {
     feat997:
         "<h1 class=player>Anger Unleashed</h1><p class=flavor><b>Heroic Tier</b><br><b>Prerequisite</b>: Half-orc<br><b>Benefit</b>: The first time you are bloodied during an encounter, you gain a +2 bonus to attack rolls until the end of your next turn.<br></p><p class=publishedIn>Published in Player's Handbook 2, page(s) 184.</p>",
     feat1217:
-        "<h1 class=player>Arcane Aegis [Multiclass Swordmage]</h1><p class=flavor><b>Prerequisite</b>: Any multiclass swordmage feat, paragon multiclassing as a swordmage<br><b>Benefit</b>: Choose a Swordmage Aegis power. You can use that power once per encounter.<br></p><p class=publishedIn>Published in Arcane Power, page(s) 135.</p>",
+        "<h1 class=player>Arcane Aegis [Multiclass Swordmage]</h1><p class=flavor><b>Paragon Tier</b><br><b>Prerequisite</b>: Any multiclass swordmage feat, paragon multiclassing as a swordmage<br><b>Benefit</b>: Choose a Swordmage Aegis power. You can use that power once per encounter.<br></p><p class=publishedIn>Published in Arcane Power, page(s) 135.</p>",
     feat277:
         "<h1 class=player>Arcane Initiate [Multiclass Wizard]</h1><p class=flavor><b>Prerequisite</b>: Int 13<br><b>Benefit</b>: You gain training in the Arcana skill.<br>    Choose a 1st-level wizard at-will power. You can use that power once per encounter.<br>    In addition, you can use wizard implements.<br><br></p><br>Revision (10/14/2009)<br>Replace the third paragraph of the Benefit section with “In addition, you can use wizard implements.”<br><br><p class=publishedIn>Published in Player's Handbook, page(s) 208.</p>",
     feat3597:
