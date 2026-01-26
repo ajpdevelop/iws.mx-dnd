@@ -13377,6 +13377,7 @@ od.reader.jsonp_data_listing(
         ["feat1581", "Invoker's Control", "Paragon", "Invoker", "DP"],
         ["feat1680", "Iron Hands", "Paragon", "Wis 13, githzerai", "PHB3"],
         ["feat3347", "Iron Propulsion", "Paragon", "Battlemind", "PsP"],
+        ["feat3799", "Jousting Charge", "Heroic", "Mounted Combat feat", "Dra401"],
         ["feat3096", "Just Punishment", "Paragon", "Paladin", "Dra388"],
         ["feat2120", "Justice Hammer", "Paragon", "Any divine class", "Dra381"],
         ["feat2236", "Killer in the Crowd", "Paragon", "Assassin", "Dra382"],

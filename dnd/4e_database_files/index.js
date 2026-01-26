@@ -13783,6 +13783,7 @@ od.reader.jsonp_name_index(20160808, {
     "jarlaxle baenre": "monster987",
     "jarring assault": "power10136",
     "jousting shield": "armor1673",
+    "jousting charge": "feat3799",
     "just punishment": ["power9285", "feat3096"],
     "justice stalker": "monster4249",
     "justice watcher": "monster4250",

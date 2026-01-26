@@ -2024,6 +2024,8 @@ od.reader.jsonp_data_index(20130616, "feat", {
         "Hobgoblin Beast Companion Prerequisite : Hobgoblin, ranger, Beast Mastery class feature, hobgoblin discipline racial power Benefit : When you use hobgoblin discipline and your beast companion is adjacent to you, you can also end one effect a save can end affecting your beast companion. In addition, your beast companion gains a +1 feat bonus to all defenses while it is adjacent to you. Dragon Magazine 419.",
     feat3779:
         "Hobgoblin Phalanx Soldier Prerequisite : Strength 13, hobgoblin Benefit : You gain proficiency with all shields. In addition, you ignore the check penalty for wearing a shield. Dragon Magazine 419.",
+    feat3799:
+        "Jousting Charge Prerequisite : Mounted Combat feat Benefit : If you hit a target with a charge attack while you are mounted, you can push the target 1 square and then shift 1 square into the square the target vacated. Dragon Magazine 401, page(s) 4.",
     feat3780:
         "Hobgoblin Weapon Training Prerequisite : Hobgoblin Benefit : You gain proficiency with all flails and spears. In addition, you gain a +2 feat bonus to the damage rolls of weapon attacks that you make using flails and spears. This bonus increases to +3 at 11th level and +4 at 21st level. Dragon Magazine 419.",
     feat2877:
