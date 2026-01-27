@@ -831,6 +831,15 @@ od.reader.jsonp_data_listing(20130703, "power", ["ID", "Name", "ClassName", "Lev
     ],
     [
       "power10272",
+      "Arcane Armor",
+      "Arcane Armorer",
+      "11",
+      "Enc. Utility",
+      "Minor",
+      "Arcane",
+      "AP"
+    ],
+    [
       "power16699",
       "Arcane Defiling",
       "Arcane Feature",
@@ -839,6 +848,9 @@ od.reader.jsonp_data_listing(20130703, "power", ["ID", "Name", "ClassName", "Lev
       "Free",
       "Arcane, Necrotic",
       "Dark Sun Campaign Setting"
+    ],
+    [
+      "power10274",
       "Ardent Alacrity",
       "Ardent",
       "",
