@@ -641,7 +641,7 @@ od.reader.jsonp_data_listing(20130703, "armor", ["ID", "Name", "Type", "Level", 
     ["armor2725", "Sunleaf Armor", "Cloth, leather or hide", ["7+", 7, 22, 12, 27, 17],
         ["2,600+ gp", 2600, 325000, 13000, 1625000, 65000], "Uncommon", "PHB"
     ],
-    ["armor2936", "Trauma Bracers", "Any shield", ["7+", 7, 27],
+    ["armor2936", "Trauma Bracers", "Arms", ["7+", 7, 27],
         ["2,600+ gp", 2600, 1625000], "Uncommon", "AV"
     ],
     ["armor3000", "Vitality Armor", "Scale or plate", ["7+", 7, 22, 12, 27, 17],

@@ -12,6 +12,26 @@ Use one entry per batch. Keep it short and factual.
 - **Smoke test**: listing/detail/search/lookup (pass/fail)
 
 ---
+## 2026-01-27 — Batch: All remaining Arms items (7 items)
+
+- **Scope**: item, armor
+- **Entries**: Angelsteel Shield, Bloodsoaked Bracers, Bracers of Mighty Striking, Bracers of the Perfect Shot, Trauma Bracers, Shield of the Barrier Sentinels, Shield of the Guardian
+- **Source**: fixes-needed.json + Portable Compendium SQL
+- **Files touched**: `4e_database_files/item/data12.js`, `data13.js`, `data19.js`, `4e_database_files/item/_index.js`, `4e_database_files/armor/data3.js`, `data4.js`, `data14.js`, `data16.js`, `4e_database_files/armor/_listing.js`, `4e_database_files/armor/_index.js`, `fixes-needed.json`, `index.htm`
+- **Validation**: pass (`compendium-validation.json`)
+- **Smoke test**: pending
+
+---
+## 2026-01-27 — Batch: 4 Arms items (remove text from higher-level versions)
+
+- **Scope**: item
+- **Entries**: Bracers of Archery, Breach Bracers, Cold Iron Bracers, Iron Armbands of Power
+- **Source**: fixes-needed.json + Portable Compendium SQL
+- **Files touched**: `4e_database_files/item/data3.js`, `data4.js`, `data8.js`, `data14.js`, `4e_database_files/item/_index.js`, `fixes-needed.json`, `index.htm`
+- **Validation**: pass (`compendium-validation.json`)
+- **Smoke test**: pending
+
+---
 ## 2026-01-26 — Arcane Defiling power (missing entry)
 
 - **Scope**: power
