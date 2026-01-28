@@ -12,6 +12,22 @@ Use one entry per batch. Keep it short and factual.
 - **Smoke test**: listing/detail/search/lookup (pass/fail)
 
 ---
+## 2026-01-27 — Batch: Simple text fixes (6 items)
+
+- **Scope**: item, ritual, power, class, implement
+- **Entries**: 
+  - Desert Rose: Fixed "a arcane" → "an arcane"
+  - Thief's Lament: Moved "Burst" from Skill Check Result column to Warded Area column
+  - Beast Stalker's Target: Changed level from 16 to 20
+  - Bonus to Defense (Hybrid Warden): Added space before colon
+  - Familiar's Baldric: Changed "defense" to "defenses" in level scaling
+  - Symbol of Vengeance: Updated damage scaling from 2d8/3d8 to 4d8/6d8 for higher levels
+- **Source**: fixes-needed.json + Portable Compendium SQL
+- **Files touched**: `4e_database_files/item/data11.js`, `data7.js`, `4e_database_files/item/_index.js`, `4e_database_files/ritual/data19.js`, `4e_database_files/ritual/_index.js`, `4e_database_files/power/data6.js`, `4e_database_files/power/_index.js`, `4e_database_files/class/data6.js`, `4e_database_files/class/_index.js`, `4e_database_files/implement/data3.js`, `4e_database_files/implement/_index.js`, `fixes-needed.json`, `index.htm`
+- **Validation**: pass (`compendium-validation.json`)
+- **Smoke test**: pending
+
+---
 ## 2026-01-27 — Batch: Goring Weapon fix
 
 - **Scope**: weapon
