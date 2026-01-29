@@ -15993,7 +15993,7 @@ od.reader.jsonp_data_listing(20130703, "power", ["ID", "Name", "ClassName", "Lev
       "power1686",
       "Beast Stalker's Target",
       "Beast Stalker",
-      "16",
+      "20",
       "Daily Attack",
       "Standard",
       "Martial, Weapon",

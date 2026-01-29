@@ -95,7 +95,6 @@ od.reader.jsonp_data_listing(20130703, "glossary", ["ID", "Name", "Category", "T
     ["glossary94", "Invigorating", "Powers", "Effect Type", "PHB2, MP, RC"],
     ["glossary198", "Lightning", "Powers", "Damage Type", "PHB, PHB3"],
     ["glossary72", "Martial", "Powers", "Power Source", "PHB"],
-    ["glossary604", "Mount", "Powers", "Effect Type", "RC"],
     ["glossary607", "Necromancy", "Powers", "Power Source", "HoS"],
     ["glossary73", "Necrotic", "Powers", "Damage Type", "PHB, PHB3"],
     ["glossary608", "Nethermancy", "Powers", "Power Source", "HoS"],

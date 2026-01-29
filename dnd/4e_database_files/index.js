@@ -24759,7 +24759,7 @@ od.reader.jsonp_name_index(20160808, {
     "milil": "deity75",
     "mimir": "item3519",
     "modra": "monster1496",
-    "mount": ["glossary56", "glossary604"],
+    "mount": "glossary56",
     "mrtok": "item1895",
     "nadir": "monster6011",
     "najid": "monster3780",

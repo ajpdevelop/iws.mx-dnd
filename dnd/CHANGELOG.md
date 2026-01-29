@@ -12,6 +12,20 @@ Use one entry per batch. Keep it short and factual.
 - **Smoke test**: listing/detail/search/lookup (pass/fail)
 
 ---
+## 2026-01-28 — Batch: Simple fixes (4 items)
+
+- **Scope**: power, ritual, glossary
+- **Entries**: 
+  - Song of Storms (power2394): Moved Effect line from Hit line to separate Effect line, removed revision note
+  - Beast Stalker's Target (power1686): Changed level from 16 to 20 in listing
+  - Thief's Lament (ritual279): Fixed table structure - moved "Burst" values to correct Warded Area column
+  - Mount (glossary604): Removed duplicate entry, kept glossary56 with multiple source references
+- **Source**: fixes-needed.json + Portable Compendium SQL
+- **Files touched**: `4e_database_files/power/data14.js`, `4e_database_files/power/_listing.js`, `4e_database_files/ritual/data19.js`, `4e_database_files/glossary/_listing.js`, `4e_database_files/glossary/data4.js`, `4e_database_files/glossary/_index.js`, `4e_database_files/index.js`, `4e_database_files/catalog.js`, `fixes-needed.json`, `index.htm`
+- **Validation**: pass (`compendium-validation.json` - all categories clean)
+- **Smoke test**: pending
+
+---
 ## 2026-01-27 — Batch: Remaining simple fixes (4 items)
 
 - **Scope**: power, glossary
