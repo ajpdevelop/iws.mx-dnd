@@ -12,6 +12,58 @@ Use one entry per batch. Keep it short and factual.
 - **Smoke test**: listing/detail/search/lookup (pass/fail)
 
 ---
+## 2026-01-28 — Batch: Channel Divinity powers (4 items)
+
+- **Scope**: class
+- **Entries**: 
+  - Avenger (class129): Verified already mentions "Each avenger has the power oath of enmity and the Channel Divinity powers abjure undead and divine guidance"
+  - Invoker (class127): Added "You gain two CD powers: Rebuke Undead and a power determined by your Divine Covenant" to Channel Divinity section
+  - Paladin (class4): Added "You gain two CD powers: Divine Mettle and Divine Strength" to Channel Divinity section
+  - Channel Divinity general entry: Documented that classes with Channel Divinity each begin with two CD powers
+- **Source**: fixes-needed.json + Portable Compendium SQL
+- **Files touched**: `4e_database_files/class/data7.js`, `4e_database_files/class/data4.js`, `4e_database_files/class/_index.js`, `fixes-needed.json`, `index.htm`
+- **Validation**: pass (`compendium-validation.json`)
+- **Smoke test**: pending
+
+---
+## 2026-01-28 — Batch: Wyrm Form power + Unicorn Destrier verification (2 items)
+
+- **Scope**: power, companion
+- **Entries**: 
+  - Wyrm Form (power5882): Added missing Wyrm Form Breath Weapon Attack (Encounter, Arcane, Implement, Close blast 5) and Wyrm Form Reactive Attack (At-Will, Arcane, Immediate Reaction, triggered when enemy flanks)
+  - Unicorn Destrier (associate63): Verified action types are already correct (Kick: Standard, Fey Step: Move, Horn Touch: Minor)
+- **Source**: fixes-needed.json + Portable Compendium SQL
+- **Files touched**: `4e_database_files/power/data2.js`, `4e_database_files/power/_index.js`, `fixes-needed.json`, `index.htm`
+- **Validation**: pass (`compendium-validation.json`)
+- **Smoke test**: pending
+
+---
+
+- **Scope**: power
+- **Entries**: 
+  - Wyrm Form (power5882): Added missing Wyrm Form Breath Weapon Attack (Encounter, Arcane, Implement, Close blast 5) and Wyrm Form Reactive Attack (At-Will, Arcane, Immediate Reaction, triggered when enemy flanks)
+- **Source**: fixes-needed.json + Portable Compendium SQL
+- **Files touched**: `4e_database_files/power/data2.js`, `4e_database_files/power/_index.js`, `fixes-needed.json`, `index.htm`
+- **Validation**: pass (`compendium-validation.json`)
+- **Smoke test**: pending
+
+---
+## 2026-01-28 — Batch: Powers, items, companions (10 items)
+
+- **Scope**: power, item, companion
+- **Entries**: 
+  - Ardent Surge (power10273): Added Mantle of Impulsiveness rider (+2 speed until end of next turn)
+  - Brilliant Corona (power13453): Clarified Effect as "one melee basic attack against a single enemy"
+  - Solitaire (all 7 items): Added Special line "You cannot use more than one solitaire in an encounter" to Quartz Lens, Cinnabar, Citrine, Aquamarine, Cerulean, Violet, Zaarani's Solitaire
+  - Wolf Animal Companion (associate1): Moved "(add your level to each defense)" from Perception to defense line
+  - Bear Animal Companion (associate5): Added "(add your level to each defense)" to defense line
+  - Living Zephyr Animal Companion (associate64): Added "(add your level to each defense)" to defense line
+- **Source**: fixes-needed.json + Portable Compendium SQL
+- **Files touched**: `4e_database_files/power/data13.js`, `4e_database_files/power/_index.js`, `4e_database_files/item/data6.js`, `data7.js`, `data8.js`, `data9.js`, `data10.js`, `data11.js`, `4e_database_files/item/_index.js`, `4e_database_files/companion/data1.js`, `data4.js`, `data5.js`, `4e_database_files/companion/_index.js`, `fixes-needed.json`, `index.htm`
+- **Validation**: pass (`compendium-validation.json`)
+- **Smoke test**: pending
+
+---
 ## 2026-01-28 — Batch: Simple fixes (4 items)
 
 - **Scope**: power, ritual, glossary
