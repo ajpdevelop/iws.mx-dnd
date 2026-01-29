@@ -12,6 +12,36 @@ Use one entry per batch. Keep it short and factual.
 - **Smoke test**: listing/detail/search/lookup (pass/fail)
 
 ---
+## 2026-01-29 — Batch: Class features and paragon path fixes (7 entries)
+
+- **Scope**: class, paragonpath
+- **Entries**: (1) Assassin (Executioner) (class811): Added Master of Shrouds optional class feature after Attack Finesse. (2) Paladin (Cavalier) (class784): Added Benefit line to Summoned Steed feature. (3) Hybrid Vampire (class893): Updated healing surges text to clarify "a character gains a total of two healing surges regardless of the class combined with vampire to create it or the character's Constitution modifier." (4) Hybrids' Bonus Skills: Header marked as corrected (all individual entries already corrected). (5) Druid (Sentinel) animal companion errors: Header marked as corrected (all individual entries already corrected). (6) Luckbringer of Tymora (paragonpath153): Added "must worship Tymora" to prerequisite; moved Divine Fortune to 11th level, Probability Control to 16th level. (7) Paladin (class4): Added ALTERNATIVE PALADIN FEATURES section with Ardent Vow and Virtue's Touch powers that can replace Lay on Hands.
+- **Source**: fixes-needed.json + Portable Compendium SQL
+- **Files touched**: `4e_database_files/class/data11.js`, `data4.js`, `data13.js`, `4e_database_files/class/_index.js`, `4e_database_files/paragonpath/data13.js`, `4e_database_files/paragonpath/_index.js`, `fixes-needed.json`, `index.htm`
+- **Validation**: pass (`compendium-validation.json`)
+- **Smoke test**: pending
+
+---
+## 2026-01-29 — Batch: Power notes + Hybrids header (3 entries)
+
+- **Scope**: power, fixes-needed (header)
+- **Entries**: (1) Sigil of Admixture (power14404): Added note that power was retracted and does not appear in published Dragon Magazine 403. (2) Item Resurgence (power7577): Added note that the rule it references (daily item power restrictions) no longer exists. (3) Hybrids' Bonus Skills: Header marked as corrected (all individual hybrid bonus-skill entries were already corrected).
+- **Source**: fixes-needed.json
+- **Files touched**: `4e_database_files/power/data4.js`, `data17.js`, `4e_database_files/power/_index.js`, `fixes-needed.json`, HTML outputs
+- **Validation**: pass
+- **Smoke test**: pending
+
+---
+## 2026-01-29 — Batch: Deep Goblin Wretch + Cavalier Benefit (2 entries)
+
+- **Scope**: monster, class
+- **Entries**: (1) Deep Goblin Wretch (monster3561): Corrected defenses and attack bonuses from Portable Compendium—AC 32→18, Fort 27→15, Ref 29→17, Will 26→14; Stone Dagger and Shortbow +13→+8 vs AC. (2) Cavalier Summoned Steed Benefit line: Marked corrected (Benefit line already present in Paladin (Cavalier) SUMMONED STEED section).
+- **Source**: fixes-needed.json + Portable Compendium SQL (monster extract)
+- **Files touched**: `4e_database_files/monster/data1.js`, `4e_database_files/monster/_index.js`, `fixes-needed.json`, HTML outputs
+- **Validation**: pass
+- **Smoke test**: pending
+
+---
 ## 2026-01-29 — Batch: Item Sets (5 entries)
 
 - **Scope**: item (Item Sets)
