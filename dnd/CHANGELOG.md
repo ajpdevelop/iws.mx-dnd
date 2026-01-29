@@ -12,6 +12,76 @@ Use one entry per batch. Keep it short and factual.
 - **Smoke test**: listing/detail/search/lookup (pass/fail)
 
 ---
+## 2026-01-29 — Batch: Item Sets (5 entries)
+
+- **Scope**: item (Item Sets)
+- **Entries**: (1) Armory of the Unvanquished (item430), (2) Caelynnvala's Boons (item431), (3) Heirlooms of Mazgorax (item433), (4) Implements of Argent (item435), (5) The Returning Beast (item438). Reviewed all five; Armory, Caelynnvala's Boons, Heirlooms, Implements of Argent had correct formatting (Lvl/Enhancement/Price tables and separate Implement/Weapon lines). The Returning Beast: Totem of the Dancing Leaf was missing the Enhancement Bonus line—added “Enhancement Bonus: attack rolls and damage rolls” in data18.js and _index.js.
+- **Source**: fixes-needed.json (Item Sets: AV2:130, AV2:132, AV2:134, RotG:15, DR396:40)
+- **Files touched**: `4e_database_files/item/data18.js`, `4e_database_files/item/_index.js`, `fixes-needed.json`, HTML outputs
+- **Validation**: pass
+- **Smoke test**: pending
+
+---
+## 2026-01-29 — Batch: Grim Blackguard duplicate powers (1 paragon path)
+
+- **Scope**: paragon path
+- **Entries**: Grim Blackguard (paragonpath814): Removed duplicated power block—all path powers (Proof of Domination, Slave to Fury, Altar of Domination, Altar of Fury, Mortal Dread, Uncontrolled Fury) were repeated after the level 20 daily entries; duplicate block and duplicate index text removed.
+- **Source**: fixes-needed.json (Grim Blackguard HoS:41 entry)
+- **Files touched**: `4e_database_files/paragonpath/data14.js`, `4e_database_files/paragonpath/_index.js`, `fixes-needed.json`, HTML outputs
+- **Validation**: pass
+- **Smoke test**: pending
+
+---
+## 2026-01-29 — Batch: Time Wizard's Tools Staff of Time formatting (1 item)
+
+- **Scope**: item
+- **Entries**: Time Wizard's Tools (item428): Staff of Time entry in the item set was missing enhancement bonus in display and had cost on the same line as Implement. Added Lvl 30 / +6 / 3,125,000 gp table; moved cost off Implement line; kept Implement: Staff and Enhancement Bonus on separate lines.
+- **Source**: fixes-needed.json (Time Wizard's Tools AV2:128 entry)
+- **Files touched**: `4e_database_files/item/data8.js`, `4e_database_files/item/_index.js`, `fixes-needed.json`, HTML outputs
+- **Validation**: pass
+- **Smoke test**: pending
+
+---
+## 2026-01-29 — Batch: Rings of the Akarot Voice of the Akarot (1 item)
+
+- **Scope**: item
+- **Entries**: Rings of the Akarot (item434): Voice of the Akarot power was already present; fixed typo in Target line ("Each enemyin burst" → "Each enemy in burst") in data and _index.
+- **Source**: fixes-needed.json (Rings of the Akarot / Voice of the Akarot entry)
+- **Files touched**: `4e_database_files/item/data14.js`, `4e_database_files/item/_index.js`, `fixes-needed.json`, HTML outputs
+- **Validation**: pass
+- **Smoke test**: pending
+
+---
+## 2026-01-29 — Batch: Battle Cleric's Lore optional class feature (2 entries)
+
+- **Scope**: class
+- **Entries**: Cleric (Templar) (class2), Hybrid Cleric (class352): Added optional class feature—Clerics and Hybrid Clerics can choose Battle Cleric's Lore in place of Healer's Lore; added BATTLE CLERIC'S LORE with Benefit (+2 shield bonus to AC, proficiency with scale armor, +2 attack bonus to target when using cleric healing power to allow spending a healing surge). Source: Dragon Magazine 400.
+- **Source**: fixes-needed.json (Battle Cleric's Lore + Benefit text entries)
+- **Files touched**: `4e_database_files/class/data2.js`, `4e_database_files/class/data12.js`, `4e_database_files/class/_index.js`, `fixes-needed.json`, `index.htm`, `fixes-needed-view.html`
+- **Validation**: pass
+- **Smoke test**: pending
+
+---
+## 2026-01-29 — Batch: Summoned Steed (Cavalier) optional class feature (1 item)
+
+- **Scope**: class
+- **Entries**: Paladin (Cavalier) (class784): Added optional class feature text and Summoned Steed option at Level 4—Cavaliers can choose Summoned Steed in place of Pace of the Virtuous Charger; added full Summon Celestial Steed power and Celestial Warhorse stat block (source: Dragon Magazine 393).
+- **Source**: fixes-needed.json + D&D 4e wiki / Dragon 393
+- **Files touched**: `4e_database_files/class/data4.js`, `4e_database_files/class/_index.js`, `fixes-needed.json`, `index.htm`
+- **Validation**: pass
+- **Smoke test**: pending
+
+---
+## 2026-01-29 — Batch: Lizard Companion duplicate Opportunity Attack (1 item)
+
+- **Scope**: companion
+- **Entries**: Lizard (companion4): Removed duplicate "Opportunity Attack: A lizard gains a +2 bonus to the attack roll when making an opportunity attack" (was listed after Trained Skills).
+- **Source**: fixes-needed.json (Familiar's Baldric / Lizard Companion entry; Lizard part fixed)
+- **Files touched**: `4e_database_files/companion/data4.js`, `4e_database_files/companion/_index.js`, `fixes-needed.json`, `index.htm`
+- **Validation**: pass
+- **Smoke test**: pending
+
+---
 ## 2026-01-28 — Batch: Channel Divinity powers (4 items)
 
 - **Scope**: class
