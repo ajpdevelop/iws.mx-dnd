@@ -160,11 +160,11 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat3640:
         "Arcane Trapsmith Prerequisite : Artificer, training in Thievery Benefit : You can use your Intelligence modifier instead of your Dexterity modifier when making Thievery checks to disable traps or open locks. You gain a +4 feat bonus to Arcana checks related to traps or hazards. Dragon Magazine 403.",
     feat3619:
-        "Arcane Vampire Prerequisite : Vampire and any arcane class Benefit : Once per encounter, when your arcane encounter attack power hits at least one enemy, you gain a healing surge. As a free action when you use an arcane encounter attack power, you can lose a healing surge to gain a bonus to the power's damage roll equal to your Charisma modifier. Dragon Magazine 402.",
+        "Arcane Vampire Prerequisite : Vampire and any arcane class Benefit : Once per encounter, when your arcane encounter attack power hits at least one enemy, you gain a healing surge. As a free action when you use an arcane encounter attack power, you can lose a healing surge to gain a bonus to the power's damage roll equal to your Charisma modifier. Dragon Magazine 400.",
     feat2393:
         "Archer Captain Heroic Tier Prerequisite : Warlord, Archer Warlord class feature Benefit : You and any ally within 5 squares of you ignore the penalty for attacking at long range. Martial Power 2, page(s) 131.",
     feat3630:
-        "Archery Mastery Prerequisite : Any ranger at-will attack power that has a level Benefit : Choose one of your ranger at-will attack powers that has a level. You lose that power and gain one of the powers granted by the Expert Archer class feature. Dragon Magazine 402.",
+        "Archery Mastery Prerequisite : Any ranger at-will attack power that has a level Benefit : Choose one of your ranger at-will attack powers that has a level. You lose that power and gain one of the powers granted by the Expert Archer class feature. Dragon Magazine 400.",
     feat2786:
         "Ardent Tsucora Initiation Heroic Tier Prerequisite : Kalashtar, ardent, ardent outrage class feature Benefit : When you use ardent outrage, each target treats squares adjacent to you as difficult terrain until the start of your next turn. Dragon Magazine 385, page(s) 16.",
     feat971:
@@ -446,7 +446,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat3390:
         "Blood's Passion [Multiclass Ardent] Prerequisite : Fervent Talent feat Benefit : Choose a power granted by an Ardent Mantle class feature. You can use that power once per day. Psionic Power, page(s) 141.",
     feat1297:
-        "Bloodhound Style Prerequisite : Any martial class Benefit : You gain a benefit with any of the following powers you possess. Careful Attack (ranger): If you hit with the melee version of this exploit against a creature granting combat advantage to you, the target is also slowed until the end of your next turn. Disheartening Strike (rogue): If you hit with the melee version of this exploit against a creature granting combat advantage to you, you can also slide the target 1 square. Predator's Strike (ranger): If you have combat advantage against your target when you use this exploit, your beast companion can shift 1 square before the attack. Tide of Iron (fighter): If you hit with this exploit, you can slow the target until the end of your next turn instead of pushing it. Dragon Magazine 373, page(s) 16.",
+        "Bloodhound Style Prerequisite : Any martial class Benefit : You gain a benefit with any of the following powers you possess. Careful Attack (ranger): If you hit with the melee version of this exploit against a creature granting combat advantage to you, the target is also slowed until the end of your next turn. Disheartening Strike (rogue): If you hit with the melee version of this exploit against a creature granting combat advantage to you, you can also slide the target 1 square. Predator Strike (ranger): If you have combat advantage against your target when you use this exploit, your beast companion can shift 1 square before the attack. Tide of Iron (fighter): If you hit with this exploit, you can slow the target until the end of your next turn instead of pushing it. Dragon Magazine 373, page(s) 16.",
     feat2287:
         "Bloodhunter's Dread Heroic Tier Prerequisite : Tiefling Benefit : When you hit a bloodied foe, the target takes a -2 penalty to attack rolls against you until the end of your next turn. Player's Handbook Races: Tiefling, page(s) 25.",
     feat2288:
@@ -819,7 +819,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat2975:
         "Crow's Flight Heroic Tier Prerequisite : Shifter Benefit : You ignore difficult terrain when you run. You gain a +2 feat bonus to Athletics and Acrobatics checks. Dragon Magazine 387, page(s) 49.",
     feat1299:
-        "Cruel Cut Style Prerequisite : Wis 13, any martial class Benefit : You gain a benefit with any of the following powers you possess. Cleave (fighter): If no other enemies are adjacent to the target when you hit the target with this exploit, the target takes ongoing damage equal to your Wisdom modifier (save ends). Furious Smash (warlord): If your ally hits with the attack this exploit provides, the target takes ongoing damage equal to your Wisdom modifier (save ends). Predator's Strike (ranger): If your beast companion hits with this exploit against a creature granting combat advantage to it, instead of adding your Wisdom modifier to the damage roll, you can have the target take ongoing damage equal to your Wisdom modifier (save ends). Riposte Strike (rogue): If you hit with the riposte this exploit grants, the target takes ongoing damage equal to your Wisdom modifier (save ends). Dragon Magazine 373, page(s) 17.",
+        "Cruel Cut Style Prerequisite : Wis 13, any martial class Benefit : You gain a benefit with any of the following powers you possess. Cleave (fighter): If no other enemies are adjacent to the target when you hit the target with this exploit, the target takes ongoing damage equal to your Wisdom modifier (save ends). Furious Smash (warlord): If your ally hits with the attack this exploit provides, the target takes ongoing damage equal to your Wisdom modifier (save ends). Predator Strike (ranger): If your beast companion hits with this exploit against a creature granting combat advantage to it, instead of adding your Wisdom modifier to the damage roll, you can have the target take ongoing damage equal to your Wisdom modifier (save ends). Riposte Strike (rogue): If you hit with the riposte this exploit grants, the target takes ongoing damage equal to your Wisdom modifier (save ends). Dragon Magazine 373, page(s) 17.",
     feat3635:
         "Cruel Shroud Prerequisite : Assassin, assassin's shroud power Benefit : You have combat advantage against targets subject to your assassin's shroud power. Dragon Magazine 401.",
     feat2079:
@@ -1093,7 +1093,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1001:
         "Disciplined Wild Soul Heroic Tier Prerequisite : Sorcerer, Wild Magic class feature Benefit : When determining your Wild Soul damage type, roll twice and use either result. Player's Handbook 2, page(s) 184.",
     feat3631:
-        "Disrupting Shot Prerequisite : Any ranger encounter attack power that has a level Benefit : Choose one of your ranger encounter attack powers that has a level. You lose that power and gain the disruptive shot power. Dragon Magazine 402.",
+        "Disrupting Shot Prerequisite : Any ranger encounter attack power that has a level Benefit : Choose one of your ranger encounter attack powers that has a level. You lose that power and gain the disruptive shot power. Dragon Magazine 400.",
     feat3191:
         "Disrupting Shove Heroic Tier Prerequisite : Gladiator theme, disrupting advance power Benefit : When you hit a target with your disrupting advance, the target falls prone at the end of the push. Dark Sun Campaign Setting, page(s) 105.",
     feat1002:
@@ -1141,7 +1141,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1629:
         "Divine Secretkeeper [Multiclass Invoker] Prerequisite : Wis 13, Int 13 Benefit : You gain training in the Arcana skill, the History skill, or the Religion skill. You gain the invoker's Ritual Casting class feature. In addition, you can wield invoker implements. Divine Power, page(s) 144.",
     feat3621:
-        "Divine Vampire Prerequisite : Vampire and any divine class Benefit : Once per encounter, when your divine encounter attack power hits at least one enemy, you gain a healing surge. Once per encounter, when you use a divine power that allows a target to spend a healing surge, the target can choose to instead lose a healing surge so that you can gain a healing surge. You lose the vulnerable 5 radiant granted by the Child of the Night class feature, and you do not take damage from direct sunlight. Dragon Magazine 402.",
+        "Divine Vampire Prerequisite : Vampire and any divine class Benefit : Once per encounter, when your divine encounter attack power hits at least one enemy, you gain a healing surge. Once per encounter, when you use a divine power that allows a target to spend a healing surge, the target can choose to instead lose a healing surge so that you can gain a healing surge. You lose the vulnerable 5 radiant granted by the Child of the Night class feature, and you do not take damage from direct sunlight. Dragon Magazine 400.",
     feat3084:
         "Divinity's Shield Heroic Tier Prerequisite : Paladin, Channel Divinity class feature Benefit : When you use a channel divinity power, you gain a +2 bonus to Fortitude, Reflex, and Will defenses until the end of your next turn. Dragon Magazine 388.",
     feat193:
@@ -1218,7 +1218,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat2978:
         "Draw Out The Beast Paragon Tier Prerequisite : Shifter Benefit : Whenever you spend a healing surge to regain hit points, you can choose to treat yourself as being bloodied until the end of your next turn. Dragon Magazine 387, page(s) 49.",
     feat3457:
-        "Dread of Sakkors Heroic Tier Prerequisite : Shadar-kai, shadow jaunt racial power Benefit : You gain a +2 feat bonus to Intimidate checks. When you hit an enemy with an attack while you are insubstantial, you can push that enemy up to 2 squares. The enemy then becomes slowed until the end of your next turn. Dragon Magazine 391.",
+        "Dread of Sakkors Heroic Tier Prerequisite : Shadar-kai, shadow jaunt racial power Benefit : You gain a +2 feat bonus to Intimidate checks. When you use your shadow jaunt power, you are insubstantial until the end of your next turn. When you hit an enemy with an attack while you are insubstantial, you can push that enemy up to 2 squares. The enemy then becomes slowed until the end of your next turn. Dragon Magazine 391.",
     feat2006:
         "Dreadful Doom Heroic Tier Prerequisite : Revenant, invoker, Covenant of Malediction class feature Benefit : You can push a target under the effect of maledictor's doom power 1 square whenever it is hit by a fear, cold, or necrotic attack. Dragon Magazine 380, page(s) 64.",
     feat773:
@@ -2370,7 +2370,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat3219:
         "Kinetic Reel Heroic Tier Prerequisite : Battlemind, wild focus power Benefit : When you use your wild focus, you pull the target of the power 2 additional squares. Dark Sun Campaign Setting, page(s) 110.",
     feat3627:
-        "Knack for Survival Prerequisite : Training in Nature Benefit : You gain a wilderness knack. If you already have one or more wilderness knacks, you gain this knack in addition to those you already have. Dragon Magazine 402.",
+        "Knack for Survival Prerequisite : Training in Nature Benefit : You gain a wilderness knack. If you already have one or more wilderness knacks, you gain this knack in addition to those you already have. Dragon Magazine 400.",
     feat2244:
         "Knife in the Dark Heroic Tier Prerequisite : Drow Benefit : You gain a +4 feat bonus to damage rolls against targets within your cloud of darkness. This bonus increases to +5 at 11th level, and +6 at 21st level. Dragon Magazine 382, page(s) 67.",
     feat3087:
@@ -2615,7 +2615,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat2445:
         "Martial Readiness Heroic Tier Prerequisite : Any martial class Benefit : When you take this feat, choose one martial at-will attack power of your level or lower from your class. After an extended rest, you can swap the chosen power for a martial at-will attack power you know of the same level. You can substitute the original power back in after another extended rest. Martial Power 2, page(s) 137.",
     feat3622:
-        "Martial Vampire Prerequisite : Vampire and any martial class Benefit : Once per encounter, when your martial encounter attack power hits at least one enemy, you gain a healing surge. The first time you are bloodied during an encounter, you gain a healing surge. If you do not spend the surge by the end of the encounter, you lose it. Dragon Magazine 402.",
+        "Martial Vampire Prerequisite : Vampire and any martial class Benefit : Once per encounter, when your martial encounter attack power hits at least one enemy, you gain a healing surge. The first time you are bloodied during an encounter, you gain a healing surge. If you do not spend the surge by the end of the encounter, you lose it. Dragon Magazine 400.",
     feat2446:
         "Martial Versatility Heroic Tier Prerequisite : Any martial class Benefit : When you take this feat, choose one martial encounter attack power of your level or lower from your class. After an extended rest, you can swap the chosen power for a martial encounter attack power you know of the same level. You can substitute the original power back in after another extended rest. Martial Power 2, page(s) 137.",
     feat3302:
@@ -2727,7 +2727,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat2694:
         "Monastic Disciple [Multiclass Monk] Heroic Tier Prerequisite : Dex 13 Benefit : You gain training in one skill from the monk's class skills list. Choose one of the monk's Flurry of Blows powers. You can use that power once per encounter. In addition, you can wield ki focuses. Player's Handbook 3, page(s) 193.",
     feat3623:
-        "Monastic Vampire Prerequisite : Vampire and monk Benefit : Once per encounter, when your monk encounter attack power hits at least one enemy, you gain a healing surge. When you spend a healing surge, you gain a +2 bonus to speed and a +4 bonus to all defenses against opportunity attacks. These bonuses last until the end of your next turn. Dragon Magazine 402.",
+        "Monastic Vampire Prerequisite : Vampire and monk Benefit : Once per encounter, when your monk encounter attack power hits at least one enemy, you gain a healing surge. When you spend a healing surge, you gain a +2 bonus to speed and a +4 bonus to all defenses against opportunity attacks. These bonuses last until the end of your next turn. Dragon Magazine 400.",
     feat2280:
         "Monkey's Rush Heroic Tier Prerequisite : Druid, wild shape power Benefit : You gain a +2 feat bonus to Athletics checks. When you bull rush while in beast form, you can slide the target rather than push the target. Dragon Magazine 383, page(s) 38.",
     feat616:
@@ -3147,7 +3147,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat2695:
         "Primal Sharpshooter [Multiclass Seeker] Heroic Tier Prerequisite : Wis 13 Benefit : You gain training in Nature. Once per day, you can use the seeker's inevitable shot power. You don't regain the use of that power when you spend an action point. Choose one 1st-level seeker at-will attack power. You can use that power once per encounter. Player's Handbook 3, page(s) 193.",
     feat3624:
-        "Primal Vampire Prerequisite : Vampire and any primal class Benefit : Once per encounter, when your primal encounter attack power hits at least one enemy, you gain a healing surge. You gain two bonus healing surges. Dragon Magazine 402.",
+        "Primal Vampire Prerequisite : Vampire and any primal class Benefit : Once per encounter, when your primal encounter attack power hits at least one enemy, you gain a healing surge. You gain two bonus healing surges. Dragon Magazine 400.",
     feat2100:
         "Prime Beast Strike Heroic Tier Prerequisite : Halfling, ranger, Beast Mastery class feature Benefit : If none of your allies is nearer to your target than either you or your beast companion, you gain a +1 bonus to attack rolls with melee and ranged attacks against that target. Dragon Magazine 381, page(s) 83.",
     feat2611:
@@ -3201,7 +3201,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat3111:
         "Psionic Trick Heroic Tier Prerequisite : Changeling, changeling trick racial power, any psionic class Benefit : You do not provoke opportunity attacks from enemies granting combat advantage to you. Dragon Magazine 388.",
     feat3625:
-        "Psionic Vampire Prerequisite : Vampire, Psionic Augmentation class feature Benefit : Once per encounter, when your augmented psionic attack power or psionic encounter attack power hits at least one enemy, you gain a healing surge. Once per encounter, as a minor action, you can lose a healing surge to gain 2 power points that expire at the end of your turn. Dragon Magazine 402.",
+        "Psionic Vampire Prerequisite : Vampire, Psionic Augmentation class feature Benefit : Once per encounter, when your augmented psionic attack power or psionic encounter attack power hits at least one enemy, you gain a healing surge. Once per encounter, as a minor action, you can lose a healing surge to gain 2 power points that expire at the end of your turn. Dragon Magazine 400.",
     feat2297:
         "Psychic Corruption of Malbolge Heroic Tier Prerequisite : Tiefling, any psionic class Benefit : After you hit an enemy with an augmented psionic power, that enemy gains vulnerability to the fire and the psychic damage of your powers until the end of your next turn. The vulnerability equals 2 and increases to 4 at 11th level and 6 at 21st level. Player's Handbook Races: Tiefling, page(s) 26.",
     feat3165:
@@ -3269,7 +3269,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1939:
         "Rampant Fury [Multiclass Barbarian] Prerequisite : Berserker's Fury feat Benefit : You gain the barbarian class feature Rampage. Primal Power, page(s) 148.",
     feat3632:
-        "Ranger's Powerful Strike Prerequisite : Any ranger encounter attack power that has a level Benefit : Choose one of your ranger encounter attack powers that has a level. You lose that power and gain the power strike power. Dragon Magazine 402.",
+        "Ranger's Powerful Strike Prerequisite : Any ranger encounter attack power that has a level Benefit : Choose one of your ranger encounter attack powers that has a level. You lose that power and gain the power strike power. Dragon Magazine 400.",
     feat2612:
         "Rapid Assault Heroic Tier Benefit : On your first turn during an encounter, you gain a +2 bonus to damage rolls with melee attacks. The bonus increases to +4 at 11th level and +6 at 21st level. Player's Handbook 3, page(s) 182.",
     feat809:
@@ -3547,7 +3547,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1989:
         "Sense of the Corrupted Heroic Tier Prerequisite : Genasi, any corrupt manifestation Benefit : You gain a +5 bonus to Perception checks to detect demons and a +5 bonus to Insight checks to see through demons' disguises. Dragon Magazine 380, page(s) 21.",
     feat3628:
-        "Sentinel Initiate [Multiclass Druid] Prerequisite : Wisdom 13 Benefit : You gain training in the Nature skill. Once per day, you can use the druid's healing word power. You also gain proficiency with staff and totem implements. Dragon Magazine 402.",
+        "Sentinel Initiate [Multiclass Druid] Prerequisite : Wisdom 13 Benefit : You gain training in the Nature skill. Once per day, you can use the druid's healing word power. You also gain proficiency with staff and totem implements. Dragon Magazine 400.",
     feat2896:
         "Serene Archery Heroic Tier Prerequisite : Wis 13, must worship Sehanine Benefit : When you make a ranged basic attack using a bow with which you are proficient, you can use Wisdom instead of Dexterity for the attack roll and the damage roll. Dragon Magazine 386, page(s) 70.",
     feat1307:
@@ -3569,11 +3569,11 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat3571:
         "Shadow Mantle Prerequisite : Born of Shadow feat Benefit : When you score a critical hit or reduce a nonminion enemy to 0 hit points, you gain partial concealment until the end of your next turn. Heroes of Shadow, page(s) 158.",
     feat3616:
-        "Shadow Master Prerequisite : Assassin (executioner) Benefit : Choose one assassin daily attack power of your level or lower. You gain that power. You can prepare one fewer vial of assassin poison during an extended rest. The vial lost must be of the highest-level assassin poison that you can create. Dragon Magazine 402.",
+        "Shadow Master Prerequisite : Assassin (executioner) Benefit : Choose one assassin daily attack power of your level or lower. You gain that power. You can prepare one fewer vial of assassin poison during an extended rest. The vial lost must be of the highest-level assassin poison that you can create. Dragon Magazine 400.",
     feat3572:
         "Shadow Overflow Prerequisite : Born of Shadow feat Benefit : Whenever you reduce a nonminion enemy to 0 hit points with a melee basic attack, one enemy within 2 squares of you takes necrotic damage equal to your Constitution modifier. Heroes of Shadow, page(s) 158.",
     feat3617:
-        "Shadow Poisoner Prerequisite : Assassin, at least one daily attack power that has a level Benefit : You learn the recipe for one assassin poison of your level or lower, as per the executioner's Poison Use class feature. When you take an extended rest, you can choose to lose the use of one of your daily attack powers; if you do so, you can create one vial of an assassin poison of a level that is less than or equal to the level of the power you lost. Dragon Magazine 402.",
+        "Shadow Poisoner Prerequisite : Assassin, at least one daily attack power that has a level Benefit : You learn the recipe for one assassin poison of your level or lower, as per the executioner's Poison Use class feature. When you take an extended rest, you can choose to lose the use of one of your daily attack powers; if you do so, you can create one vial of an assassin poison of a level that is less than or equal to the level of the power you lost. Dragon Magazine 400.",
     feat3639:
         "Shadow Reservoir Prerequisite : Assassin Benefit : You gain a +2 feat bonus to damage rolls with shadow attacks made through a ki focus. The bonus increases to +3 at 11th level and +4 at 21st level. Dragon Magazine 401.",
     feat1026:
@@ -3845,7 +3845,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat2621:
         "Springing Charge Heroic Tier Prerequisite : Minotaur Benefit : When you score a critical hit with a charge attack, you can charge a different creature as a free action once per round. Player's Handbook 3, page(s) 183.",
     feat3629:
-        "Squire of Righteousness [Multiclass Paladin] Prerequisite : Strength 13, Charisma 13 Benefit : You gain training in one skill from the cavalier paladin's class skills list. You also gain proficiency with holy symbols. You gain the defender aura power. You can use righteous radiance as an encounter power. Dragon Magazine 402.",
+        "Squire of Righteousness [Multiclass Paladin] Prerequisite : Strength 13, Charisma 13 Benefit : You gain training in one skill from the cavalier paladin's class skills list. You also gain proficiency with holy symbols. You gain the defender aura power. You can use righteous radiance as an encounter power. Dragon Magazine 400.",
     feat3151:
         "Staff Expertise Benefit : You gain a +1 feat bonus to the attack rolls of implement powers and weapon powers that you use with a staff. This bonus increases to +2 at 11th level and +3 at 21st level. In addition, when you make a ranged or an area attack with a staff as an implement, you don't provoke opportunity attacks for doing so. When you make a melee weapon attack with a staff, the weapon's reach for that attack increases by 1. Heroes of the Fallen Lands, page(s) 317, Heroes of the Forgotten Kingdoms, page(s) 318.",
     feat951:
@@ -4018,7 +4018,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat3512:
         "Swaying Branches Prerequisite : Warden, warden's fury power Benefit : Whenever you hit an enemy with your warden's fury, you can choose to knock the target prone or slide it 1 square instead of causing damage. Dragon Magazine 392.",
     feat989:
-        "Swift Blade Style [Arena Fighting] Heroic Tier Prerequisite : Dex 13, Two-Weapon Fighting, any martial class Benefit : You gain a benefit with any of the following exploits you possess. Associated Powers: Dual Strike: If both attacks hit and you are wielding a light blade in each hand, you gain a +2 feat bonus to attack rolls and damage rolls with opportunity attacks until the start of your next turn. Twin Strike: If both attacks hit and you are wielding a light blade in each hand, you deal extra damage equal to your Dexterity modifier. Dragon Magazine Annual, Dragon Magazine 368, page(s) 62.",
+        "Swift Blade Style [Arena Fighting] Heroic Tier Prerequisite : Dex 13, Two-Weapon Fighting, any martial class Benefit : You gain a benefit with any of the following exploits you possess. Associated Powers: Dual Strike: If both attacks hit and you are wielding a light blade in each hand, you gain a +2 feat bonus to attack rolls and damage rolls with opportunity attacks until the start of your next turn. Twin Strike: If both attacks hit and you are wielding a light blade in each hand, you deal extra damage equal to your Dexterity modifier to one target of the attack. Dragon Magazine Annual, Dragon Magazine 368, page(s) 62.",
     feat2258:
         "Swift Familiar [Familiar] Heroic Tier Prerequisite : Arcane Familiar feat Benefit : You can switch your familiar between passive mode and active mode with a free action on your turn instead of a minor action. You can do so only once per turn. Dragon Magazine 382, page(s) 28.",
     feat2469:
@@ -4118,7 +4118,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1031:
         "Thirst for Battle Heroic Tier Prerequisite : Half-orc Benefit : You gain a +3 feat bonus to initiative checks, and your number of healing surges increases by one. Player's Handbook 2, page(s) 189.",
     feat3620:
-        "Thirst for Blood [Multiclass Vampire] Prerequisite : Vampirism feat Benefit : Choose one of your encounter attack powers that has a level. You lose that power and gain blood drinker. Your blood drinker is also triggered if you hit an adjacent enemy with a melee at-will attack power. Dragon Magazine 402.",
+        "Thirst for Blood [Multiclass Vampire] Prerequisite : Vampirism feat Benefit : Choose one of your encounter attack powers that has a level. You lose that power and gain blood drinker. Your blood drinker is also triggered if you hit an adjacent enemy with a melee at-will attack power. Dragon Magazine 400.",
     feat3322:
         "Thought Warning Heroic Tier Prerequisite : Kalashtar, Telepathy racial trait, battlemind Benefit : The first time you drop to 0 power points during an encounter, you and each ally within range of your telepathy can shift 1 square as a free action. Psionic Power, page(s) 135.",
     feat3763:
@@ -4318,7 +4318,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1103:
         "Vampiric Heritage [Vampire Bloodline] Prerequisite : Living humanoid race Benefit : You gain blood drain as an encounter power. Additionally, you gain a +2 bonus to Perception and Insight checks to sense and recognize dhampyrs and undead. Special : You are considered a vampire for the purpose of effects that relate to vampires. Blood Drain Feat Attack Encounter ✦ Healing Standard Action Melee touch Target : One living creature you have grabbed Attack : Strength +2 vs. Fortitude, Constitution +2 vs. Fortitude, or Dexterity +2 vs. Fortitude Hit : 1d4 + Constitution modifier damage, and you can spend a healing surge. Level 11: +4 bonus and 2d4 + Constitution modifier damage. Level 21: +6 bonus and 3d4 + Constitution modifier damage. Special : When you select the Vampiric Heritage feat, you determine whether you use Strength, Constitution, or Dexterity to attack with this power. Dragon Magazine Annual, Dragon Magazine 371, page(s) 34.",
     feat3626:
-        "Vampirism [Multiclass Vampire] Benefit : You gain the benefit of the Child of the Night class feature, except that you do not gain darkvision or necrotic resistance. You also gain the Blood Is Life class feature and the Enduring Soul class feature. In addition, reduce the healing surges granted by your class to 2. In addition, you gain proficiency with holy symbols and ki focuses. Dragon Magazine 402.",
+        "Vampirism [Multiclass Vampire] Benefit : You gain the benefit of the Child of the Night class feature, except that you do not gain darkvision or necrotic resistance. You also gain the Blood Is Life class feature and the Enduring Soul class feature. In addition, reduce the healing surges granted by your class to 2. In addition, you gain proficiency with holy symbols and ki focuses. Dragon Magazine 400.",
     feat3000:
         "Vanguard's Eye Heroic Tier Prerequisite : Invoker Benefit : When you hit a target using a ranged invoker attack, each ally adjacent to the target gains a +2 bonus to all defenses against opportunity attacks until the start of your next turn. Dragon Magazine 387, page(s) 42.",
     feat3047:
@@ -4408,7 +4408,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1226:
         "Walker in Gloom [Multiclass Warlock] Paragon Tier Prerequisite : Any multiclass warlock feat, paragon multiclassing as a warlock Benefit : You gain the warlock's Shadow Walk class feature. Arcane Power, page(s) 136.",
     feat3618:
-        "Walker of the Dark Path [Multiclass Paladin] Benefit : You gain training in one skill from the blackguard paladin's class skills list. You also gain proficiency with holy symbols. Once per encounter, when you make a weapon attack against an enemy granting combat advantage to you, that enemy takes extra damage equal to your Charisma modifier. You can use shroud of shadow as a daily power. Dragon Magazine 402.",
+        "Walker of the Dark Path [Multiclass Paladin] Benefit : You gain training in one skill from the blackguard paladin's class skills list. You also gain proficiency with holy symbols. Once per encounter, when you make a weapon attack against an enemy granting combat advantage to you, that enemy takes extra damage equal to your Charisma modifier. You can use shroud of shadow as a daily power. Dragon Magazine 400.",
     feat1275:
         "Wall Crawlers [Guild] Benefit : You gain a +2 feat bonus to Athletics checks. Whenever an ally with this feat successfully aids you on your Athletics check, you gain a +4 bonus instead of the normal +2 bonus. An ally with this feat can aid you by taking the same type of action you are taking to use Athletics. Dragon Magazine 373, page(s) 12.",
     feat3157:
@@ -4643,7 +4643,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1744:
         "Advantageous Perspective Paragon Tier Prerequisite : 11th level, fighter, Small size Benefit : When you make a melee weapon attack, you score a critical hit on a natural roll of 19 or 20 against Large or larger creatures granting combat advantage to you. Dragon Magazine 378.",
     feat1334:
-        "Aggressive Familiar [Familiar] Prerequisite : Arcane Familiar, 16th level or higher utility power Benefit : The aggressive familiar feat power replaces one of your 16th-level or higher utility powers. Aggressive Familiar Feat Utility Daily ✦ Arcane Free Action Personal Requirement : Your familiar must be in its active state. Effect : Your familiar is destroyed, and you gain a +5 power bonus to damage rolls against creatures that were adjacent to your familiar until the end of the current turn. Dragon Magazine 374, page(s) 32.",
+        "Aggressive Familiar [Familiar] Paragon Tier Prerequisite : Arcane Familiar, 16th level or higher utility power Benefit : The aggressive familiar feat power replaces one of your 16th-level or higher utility powers. Aggressive Familiar Feat Utility Daily ✦ Arcane Free Action Personal Requirement : Your familiar must be in its active state. Effect : Your familiar is destroyed, and you gain a +5 power bonus to damage rolls against creatures that were adjacent to your familiar until the end of the current turn. Dragon Magazine 374, page(s) 32.",
     feat50: "Agile Athlete Paragon Tier Prerequisite : 11th level Benefit : When you make an Acrobatics check or an Athletics check, roll twice and use the higher result. Player's Handbook, page(s) 202.",
     feat2480:
         "Agile Command Paragon Tier Prerequisite : 11th level, Int 15, warlord, Skirmishing Presence class feature Benefit : Any ally who starts his or her turn adjacent to you gains a +2 feat bonus to AC and Reflex against opportunity attacks until the end of his or her turn. Martial Power 2, page(s) 141.",
@@ -5404,7 +5404,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat3351:
         "Power Surge Paragon Tier Prerequisite : 11th level, psion Benefit : You can expend the use of an unused daily psion attack power to regain 2 power points. If the daily power is 15th level or higher, you instead regain 4 power points. If the daily power is 25th level or higher, you instead regain 6 power points. Psionic Power, page(s) 138.",
     feat3667:
-        "Powerful Lure Prerequisite : 11th level, satyr, lure of enchantment racial power Benefit : When you use lure of enchantment, you can slide the target up to 6 squares, instead of the normal distance, and you can slide it into hindering terrain. Heroes of the Feywild, page(s) 130.",
+        "Powerful Lure Paragon Tier Prerequisite : 11th level, satyr, lure of enchantment racial power Benefit : When you use lure of enchantment, you can slide the target up to 6 squares, instead of the normal distance, and you can slide it into hindering terrain. Heroes of the Feywild, page(s) 130.",
     feat1636:
         "Predictive Defense Paragon Tier Prerequisite : 11th level, psion Benefit : Whenever you hit an enemy with a psionic at-will attack power that is unaugmented, you gain a +2 bonus to all defenses against melee attacks until the end of your next turn. Player's Handbook 3, page(s) 188.",
     feat1183:
@@ -5786,7 +5786,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1191:
         "Vigorous Assault Paragon Tier Prerequisite : 11th level, swordmage, aegis of assault power Benefit : When you use your aegis of assault to teleport, you gain temporary hit points equal to 3 + your Strength modifier. Arcane Power, page(s) 133.",
     feat1710:
-        "Vigorous Familiar [Familiar] Heroic Tier Paragon Tier Prerequisite : 11th level, artificer, Arcane Familiar feat, Mark of Handling feat or member of House Vadalis Benefit : Your knowledge of House Vadalis's beast breeding techniques allows you to form your familiar with greater speed and resilience. Your familiar gains a +2 feat bonus to speed and a +1 feat bonus to AC. Dragon Magazine 377, page(s) 35.",
+        "Vigorous Familiar [Familiar] Paragon Tier Prerequisite : 11th level, artificer, Arcane Familiar feat, Mark of Handling feat or member of House Vadalis Benefit : Your knowledge of House Vadalis's beast breeding techniques allows you to form your familiar with greater speed and resilience. Your familiar gains a +2 feat bonus to speed and a +1 feat bonus to AC. Dragon Magazine 377, page(s) 35.",
     feat3366:
         "Violent Joy Paragon Tier Prerequisite : 11th level, ardent, ardent surge power, Mantle of Elation class feature Benefit : When you target a bloodied ally with your ardent surge and that ally regains enough hit points to no longer be bloodied, he or she can score critical hits with melee attacks on a roll of 19–20 until the end of your next turn. Psionic Power, page(s) 139.",
     feat1913:

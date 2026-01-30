@@ -12,6 +12,36 @@ Use one entry per batch. Keep it short and factual.
 - **Smoke test**: listing/detail/search/lookup (pass/fail)
 
 ---
+## 2026-01-29 — Batch: 10 simple text corrections (feats, weapons, implements, glossary)
+
+- **Scope**: feat, weapon, implement, glossary
+- **Entries**: (1) Dragon Magazine 400 Feats—17 feats Published in 402 → 400. (2) Hidden Weapon—removed redundant Special line. (3) Scorpion Tail Blade—critical ongoing poison damage tiered by level. (4) Orb of Impenetrable Escape—added Critical: +1d6 per plus. (5) Master's Wand of Magic Missile—level 4+. (6) Earthfall Totem—Level 17, 22, or 27: 2d6 extra damage. (7) Accurate (glossary)—bonus when making implement attack with accurate implement. (8) Ki Focuses (six)—Published in D398, not HoS. (9) Swift Blade Style—already correct. (10) Dread of Sakkors—already correct.
+- **Source**: fix/fixes-needed.json
+- **Files touched**: 4e_database_files/feat (Dragon 400), weapon (Hidden Weapon, Scorpion Tail Blade), implement (Orb, Master's Wand, Earthfall Totem, Ki Focuses), glossary (accurate); fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
+## 2026-01-29 — Batch: Aggressive Familiar, Powerful Lure (Paragon tier label)
+
+- **Scope**: feat
+- **Entries**: (1) Aggressive Familiar [Familiar]—added Paragon Tier label to data and _index (was missing; listing already Paragon). (2) Powerful Lure—same.
+- **Source**: fix/fixes-needed.json (Feats that should be labeled as Paragon)
+- **Files touched**: 4e_database_files/feat/data14.js, data7.js, _index.js; fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
+## 2026-01-29 — Batch: Bloodhound/Cruel Cut Style, Your Doom Awaits, Winged Revival, Vigorous Familiar, Mark of Making (6 fixes)
+
+- **Scope**: power, feat
+- **Entries**: (1) Bloodhound Style—"Predator's Strike" → "Predator Strike" (ranger power name, MP:43). (2) Cruel Cut Style—same. (3) Your Doom Awaits (power10871)—Target line moved before Attack, formatting fixed (Redeemer of the Damned 11, PHR:T:21). (4) Winged Revival—prerequisite already 21st level; marked corrected. (5) Vigorous Familiar—removed erroneous "Heroic Tier" from _index (DR377:35). (6) Mark of Making—already listed Heroic; marked corrected.
+- **Source**: fix/fixes-needed.json
+- **Files touched**: 4e_database_files/feat/data17.js, data19.js, _index.js; 4e_database_files/power/data11.js, _index.js; fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
 ## 2026-01-29 — Batch: 20 simple fixes (powers, feat, items, notes)
 
 - **Scope**: power, feat, item

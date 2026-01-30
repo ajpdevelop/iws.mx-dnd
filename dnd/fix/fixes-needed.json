@@ -326,7 +326,7 @@
     },
     {
       "text": "Your Doom Awaits (Redeemer of the Damned 11) (PHR:T:21): Target line missing: Target: Each enemy in the burst. Has 2x <p class=\"powerstat\"> before the Target line.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Seeker's Due (Seeker Encounter 3) (DR389:42) : Remove Spiritbond Rider",
@@ -1044,7 +1044,7 @@
     },
     {
       "text": "Bloodhound Style: Associated ranger power is Predator Strike, not Predator's (MP:43)",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Cliffwalk Shifting (PHB2:190): Typo in name, should be \"Shifting\" instead of \"Shiffting\"",
@@ -1052,27 +1052,27 @@
     },
     {
       "text": "Cruel Cut Style: Associated ranger power is Predator Strike, not Predator's (MP:43)",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Dread of Sakkors (DR391): should be insubstantial due to shadow jaunt power.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Mark of Making (EPG:91): Should be listed as Heroic with other [Dragonmark]s",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Swift Blade Style (DR368:62): Extra damage only to one target of Twin Strike.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Winged Revival (DR374:50): Prerequisite is 21st level, not 11th, for Epic feats.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Dragon Magazine 400 Feats [Shadow Master, Shadow Poisoner, Walker of the Dark Path, Arcane Vampire, Thirst for Blood, Divine Vampire, Martial Vampire, Monastic Vampire, Primal Vampire, Psionic Vampire, Vampirism, Knack for Survival, Sentinel Initiate, Squire of Righteousness, Archery Mastery, Disrupting Shot, Ranger's Powerful Strike]: Mistakenly listed as Published in Dragon 402.",
-      "status": "needs_fix"
+      "status": "corrected"
     }
   ],
   "Feats that should be labeled as Paragon": [
@@ -1146,15 +1146,15 @@
     },
     {
       "text": "Aggressive Familiar",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Powerful Lure",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Vigorous Familiar (DR377:35) [labeled as Heroic]",
-      "status": "needs_fix"
+      "status": "corrected"
     }
   ],
   "Paragon Multiclassing feats (should be Paragon)": [
@@ -1330,15 +1330,15 @@
     },
     {
       "text": "Goring Weapon (DR365: 56): Does not actually exist, the original item is called \"Impaling Weapon\", and the power is a Free Action, not an Immediate Reaction",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Hidden Weapon (DSCS:125): Remove Special line. Contradicts Power restriction.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Scorpion Tail Blade(AV2:131): Critical line has only the level 28 ongoing damage. Level 13: 10 damage. Lvl 18: 12 damage. Lvl 23: 15 damage. Lvl 28: 17 damage.",
-      "status": "needs_fix"
+      "status": "corrected"
     }
   ],
   "Implements": [
@@ -1380,11 +1380,11 @@
     },
     {
       "text": "Earthfall Totem (AV2): Level 22 totem should also do 2d6 extra damage.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Ki Focuses [Bloodthirsty, Devastating, Envenomed, Final Sleep, Shadow Master, Magic] (D398:61): Published in D398, not Heroes of Shadow.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Master's Wand of Magic Missile (DMK:283): Later source has item lvl 4+, not 3+.",
@@ -1392,7 +1392,7 @@
     },
     {
       "text": "Orb of Impenetrable Escape: Critical bonus (1d6 per plus) missing.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Rod of the Churning Inferno (AV:100): Level 17/22/27 increases to ongoing damage missing. Level 17 or 22: ongoing 10. Level 27: ongoing 15.",

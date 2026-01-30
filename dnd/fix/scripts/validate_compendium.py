@@ -125,7 +125,8 @@ def validate_global_name_index() -> List[str]:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Validate 4e_database_files integrity.")
-    parser.add_argument("--output", default="fix/compendium-validation.json", help="Output JSON report path")
+    default_output = ROOT / "fix" / "compendium-validation.json"
+    parser.add_argument("--output", default=str(default_output), help="Output JSON report path")
     args = parser.parse_args()
 
     report = {"categories": [], "global_name_index_missing": []}

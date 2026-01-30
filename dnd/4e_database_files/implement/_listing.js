@@ -336,8 +336,8 @@ od.reader.jsonp_data_listing(20130703, "implement", ["ID", "Name", "Type", "Leve
     ["implement1826", "Master's Wand of Hellish Rebuke", "Wand", ["3+", 3, 18, 8, 23, 13, 28],
         ["680+ gp", 680, 85000, 3400, 425000, 17000, 2125000], "Uncommon", "AV"
     ],
-    ["implement1828", "Master's Wand of Magic Missile", "Wand", ["3+", 3, 18, 8, 23, 13, 28],
-        ["680+ gp", 680, 85000, 3400, 425000, 17000, 2125000], "Uncommon", "AV, DMK"
+    ["implement1828", "Master's Wand of Magic Missile", "Wand", ["4+", 4, 19, 9, 24, 14, 29],
+        ["840+ gp", 840, 105000, 4200, 525000, 21000, 2625000], "Uncommon", "AV, DMK"
     ],
     ["implement1831", "Master's Wand of Ray of Frost", "Wand", ["3+", 3, 18, 8, 23, 13, 28],
         ["680+ gp", 680, 85000, 3400, 425000, 17000, 2125000], "Uncommon", "AV"
