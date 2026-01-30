@@ -1264,7 +1264,7 @@
     },
     {
       "text": "Gauntlet Axe (DSCS:121): The line \"The weapon can also serve as a light shield.\" should be removed, per the errata (CErr:17).",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Magic Items are Listed by slot/type, then alphabetically.",
@@ -1396,7 +1396,7 @@
     },
     {
       "text": "Rod of the Churning Inferno (AV:100): Level 17/22/27 increases to ongoing damage missing. Level 17 or 22: ongoing 10. Level 27: ongoing 15.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Symbol of Hope (PHB:237): Reference to errata not listed (CErr:110)",
@@ -1430,11 +1430,11 @@
     },
     {
       "text": "Ironclad Armor (PHB3:199): Augment is incorrect, should say \"The damage equals 1d10 per plus\"",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Predator's Hide: Higher-level: Change \"defense\" to \"defenses\"",
-      "status": "needs_fix"
+      "status": "corrected"
     }
   ],
   "Necks": [
@@ -1656,7 +1656,7 @@
     },
     {
       "text": "Sandals of Precise Stepping (AV1:130): Higher level: Remove \"Gain a\" and \"to Acrobatics\" from Level 13 and Level 23 entries.",
-      "status": "needs_fix"
+      "status": "corrected"
     }
   ],
   "Wondrous Items": [
@@ -1722,11 +1722,11 @@
     },
     {
       "text": "Familiar's Baldric: Higher-level: change \"defense\" to \"defenses.\"",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Lizard Companion : Opportunity Attack benefit listed twice",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Vadalis-bred Griffon (EPG:79) : Melee Basic Attack missing + 3 bonus and vs. AC.",
@@ -1738,7 +1738,7 @@
     },
     {
       "text": "Wrab Familiar (DR397:4): Familiar's blindsight does not include its range of 5.",
-      "status": "needs_fix"
+      "status": "corrected"
     }
   ],
   "Alternative Rewards": [
@@ -2054,7 +2054,7 @@
     },
     {
       "text": "Classes that start with \"A\" [Ardent, Artificer, Assassin, Avenger]: \"Creating A...\" section should instead be \"Creating AN...\"",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Cleric (Templar) (PHB1:61): Missing free ritual book + Gentle Repose + 1st level ritual.",
@@ -2090,7 +2090,7 @@
     },
     {
       "text": "Warlock (PHB:131): The Prime Shot explanation should not have the line: \"You do not gain this feature if you choose the Beast Mastery fighting style.\".",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Wizard (All): Cantrips not specified. Wizards can choose f rom Ghost Sound, Light, Mage Hand, Prestidigitation, Suggestion, Disrupt Undead, and Spook .",
@@ -2294,19 +2294,19 @@
     },
     {
       "text": "Angel of Tiamat (Dun168:67): Defenses incorrect. Should be 35/35/31/30.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Eclavdra Eilservs (Dun200:63): On Your Knees attack power is Melee 3, not just \"3\".",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Black Slaad (Void Slaad) (MM 239): Zone of Oblivion lacks its trigger of \"(when reduced to 0 hit points) ✦ Zone\". Should not be At-will",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Simian companion (DR392): missing Manipulate Items skill",
-      "status": "needs_fix"
+      "status": "corrected"
     }
   ]
 }

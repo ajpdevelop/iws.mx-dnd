@@ -12,6 +12,36 @@ Use one entry per batch. Keep it short and factual.
 - **Smoke test**: listing/detail/search/lookup (pass/fail)
 
 ---
+## 2026-01-30 — Batch: Tier 3 simple fixes (implement, item, monster)
+
+- **Scope**: implement, item, monster
+- **Entries**: (12) Rod of the Churning Inferno—added Level 17 or 22: ongoing 10 fire damage; Level 27: ongoing 15 fire damage in implement/data17.js and implement/_index.js. (13) Sandals of Precise Stepping—removed "Gain a " from property in item/data7.js and item/_index.js. (14) Black Slaad (Void Slaad)—Zone of Oblivion: changed from (zone) At-Will to (when reduced to 0 hit points) ✦ Zone in monster/data13.js and monster/_index.js.
+- **Source**: fix/fixes-needed.json, fix/batch-simple-fixes.md
+- **Files touched**: 4e_database_files/implement/data17.js, _index.js; 4e_database_files/item/data7.js, _index.js; 4e_database_files/monster/data13.js, _index.js; fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
+## 2026-01-30 — Batch: Tier 2 simple fixes (armor, weapon, companion)
+
+- **Scope**: armor, weapon, companion
+- **Entries**: (7) Ironclad Armor—augment already "The damage equals 1d10 per plus"; marked corrected. (8) Gauntlet Axe—no "light shield" line in data; marked corrected. (9) Lizard/Serpent Companion—removed duplicate Opportunity Attack sentence from Serpent in companion/data6.js and companion/_index.js; Lizard entry marked corrected. (10) Wrab Familiar—added blindsight range 5 in companion/data0.js and companion/_index.js. (11) Simian companion—added Manipulate Items to Trained Skills in companion/data11.js and companion/_index.js.
+- **Source**: fix/fixes-needed.json, fix/batch-simple-fixes.md
+- **Files touched**: 4e_database_files/companion/data0.js, data6.js, data11.js, _index.js; fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
+## 2026-01-30 — Batch: Tier 1 simple fixes (armor, item, monster, class)
+
+- **Scope**: armor, item (Familiar slot), monster, class
+- **Entries**: (1) Predator's Hide—higher-level already "defenses"; marked corrected. (2) Familiar's Baldric—higher-level already "defenses"; marked corrected. (3) Angel of Tiamat—defenses already 35/35/31/30; marked corrected. (4) Eclavdra Eilservs—On Your Knees attack: "3" → "Melee 3" in data4.js and monster _index.js. (5) Warlock (PHB:131)—removed Prime Shot line "You do not gain this feature if you choose the Beast Mastery fighting style." from class/data7.js and class/_index.js. (6) Classes that start with A (Ardent, Artificer, Assassin, Avenger)—"Creating A..." → "Creating AN..." in class data5.js, data6.js, data9.js and class/_index.js.
+- **Source**: fix/fixes-needed.json, fix/batch-simple-fixes.md
+- **Files touched**: 4e_database_files/monster/data4.js, _index.js; 4e_database_files/class/data5.js, data6.js, data7.js, data9.js, _index.js; fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
 ## 2026-01-29 — Batch: 10 simple text corrections (feats, weapons, implements, glossary)
 
 - **Scope**: feat, weapon, implement, glossary
