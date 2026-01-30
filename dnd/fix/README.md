@@ -98,9 +98,9 @@ Use the extracted content to guide or paste the correct HTML into `dataN.js` and
 
 3. **Validate compendium**  
    ```bash
-   python3 fix/scripts/validate_compendium.py --output compendium-validation.json
+   python3 fix/scripts/validate_compendium.py
    ```
-   (Validation output can stay at project root or go in `fix/`; your choice.)  
+   Report is written to **`fix/compendium-validation.json`** by default (override with `--output`).  
    Check the report: `missing_data`, `missing_index`, `misrouted_data`, `extra_index`, `global_name_index_missing` should all be 0. Fix any issues before continuing.
 
 4. **Update fix/CHANGELOG.md**  
@@ -126,7 +126,7 @@ Use the extracted content to guide or paste the correct HTML into `dataN.js` and
 |--------|--------|
 | `fix/scripts/mark_fix_corrected.py` | Set status to `corrected` in `fix/fixes-needed.json` by matching fix text. |
 | `fix/scripts/render_fixes_html.py` | Regenerate `fix/index.htm` from `fix/fixes-needed.json`. |
-| `fix/scripts/validate_compendium.py` | Check data/index/listing/catalog consistency; write report to `compendium-validation.json`. |
+| `fix/scripts/validate_compendium.py` | Check data/index/listing/catalog consistency; write report to `fix/compendium-validation.json`. |
 | `fix/scripts/portable_sql_extract.py` | Pull entry HTML from Portable Compendium SQL (optional). |
 
 Other scripts in `fix/scripts/` (e.g. batch fix, extract, prioritize) were used for the initial bulk run; for **new one-off fixes**, the workflow above is enough.

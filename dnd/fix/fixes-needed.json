@@ -246,11 +246,11 @@
     },
     {
       "text": "Note: Many of the following powers need to be fixed both in the \"powers\" entry and in their race or class entries or theme/paragon path/epic destiny entries.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Powers are sorted alphabetically by class/paragon path/epic destiny/etc., then by level.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Agile Recovery (Acrobatics Util 2) (PHB3:164): Should have Personal keyword.",
@@ -258,7 +258,7 @@
     },
     {
       "text": "Decelerating Slash (Ardent Daily 5) (PsP:12) : Remove incorrect indentation before \"Each Failed Saving Throw\" line.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Courageous Strike (Ardent At-Will 7) (PHB3:28): The Augment 2's Hit Line duplicates Mindlink Strike: it should not grant a melee basic attack",
@@ -270,7 +270,7 @@
     },
     {
       "text": "Prescient Knowledge (Avenger Utility 6) (DR384:46): Utility listed as attack.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Winter's Kiss (Bralani Wintersoul E11) (DR384): Missing line: \"Target: One creature.\"",
@@ -286,7 +286,7 @@
     },
     {
       "text": "Slashing Claws (Druid Daily 15) (PHB2:91): Beast form should be KW. Range should be Melee touch, not \"Melee beast form.\"",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Rescue Familiar (Familiar Bloodsmith Util 12) [DR377:37]: Target should be Trigger.",
@@ -298,7 +298,7 @@
     },
     {
       "text": "Knack for Success (Half-Elf Racial) (HotFK:252): Should be listed as Racial Utility.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Armor of Wrath (Invoker Feature) (PHB2: 102): Missing from Power listing.",
@@ -322,7 +322,7 @@
     },
     {
       "text": "Void Shard (Psion At-Will 13) (PsP:93): The Augment 1 entry should have \"the Void Shard Attack power\" replaced with \"the following power\". Remove the \"Special\" line in the Void Shard Attack entry per errata.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Your Doom Awaits (Redeemer of the Damned 11) (PHR:T:21): Target line missing: Target: Each enemy in the burst. Has 2x <p class=\"powerstat\"> before the Target line.",
@@ -330,15 +330,15 @@
     },
     {
       "text": "Seeker's Due (Seeker Encounter 3) (DR389:42) : Remove Spiritbond Rider",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Seeker's Peeress Shot (Seeker Encounter 17) (DR389:43) : Remove Spiritbond Rider",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Spirit's Sacrifice (Shaman Utility 2) (DR387:11): Should be Close Burst Spirit 5, not Area Burst Spirit 5.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Memories of Wind and Rain (Shaman encounter 7): \"i\" in \"Wind\" capitalized.",
@@ -346,11 +346,11 @@
     },
     {
       "text": "Life and Death Struggle (Shaman Utility 22) (DR372:23): Utility listed as attack.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Rippling Strike (Sorcerer Encounter 17) (DR831:44): Should have Psychic keyword, but not Teleportation or Thunder KWs",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Bludgeoning Counterstrike (Stalwart Knight Utility 12) (HotFL:141) : Power missing. Level and type missing in Paragon Path entry.",
@@ -362,23 +362,23 @@
     },
     {
       "text": "Echoing Dirge (HoS:66): Power should have no level. (Not level 1)",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Pain to Pleasure (Warlock Encounter 7) (DR386:47): Miss line should read \"You take damage equal to your level but can make a secondary attack.\"",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Force Orb (Wizard Encounter 1) (PHB:60): Power should have \"Published in Player's Handbook, page(s) 160, Class Compendium\" instead of just \"Published in Class Compendium\".",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Acid Arrow (Wizard Daily 1) (PHB:60): should have \"Published in Player's Handbook, page(s) 160, Class Compendium\" instead of just \"Published in Class Compendium\".",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Summon Succubus (Wizard Daily 9) (DR385:55) : Intrinsic Nature should be \" Intrinsic Nature: If you haven't given the succubus any commands by the end of your turn, it shifts 1 square and attacks you or your nearest ally within range.\"",
-      "status": "needs_fix"
+      "status": "corrected"
     }
   ],
   "Powers with augments that should have the Augmentable keyword": [
@@ -1048,7 +1048,7 @@
     },
     {
       "text": "Cliffwalk Shifting (PHB2:190): Typo in name, should be \"Shifting\" instead of \"Shiffting\"",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Cruel Cut Style: Associated ranger power is Predator Strike, not Predator's (MP:43)",
@@ -1674,7 +1674,7 @@
     },
     {
       "text": "Raven Tens (DR417): Extra </br> after name pushes Level listing off yellow.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Spying Mirrors (pair) (AV2:82): \"Special\" paragraph missing.",
@@ -1822,7 +1822,7 @@
     },
     {
       "text": "Blastpatch (AV:25): Power should be \"(Cold, Fire, or Lightning)",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Salve of Slipperiness (Alchemical Item) (AV:29): Higher level versions lack the increased effect.",

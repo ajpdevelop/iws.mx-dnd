@@ -12,6 +12,16 @@ Use one entry per batch. Keep it short and factual.
 - **Smoke test**: listing/detail/search/lookup (pass/fail)
 
 ---
+## 2026-01-29 — Batch: 20 simple fixes (powers, feat, items, notes)
+
+- **Scope**: power, feat, item
+- **Entries**: Decelerating Slash (indentation); Slashing Claws (Beast Form KW, Melee touch); Prescient Knowledge, Echoing Dirge (no level), Force Orb, Acid Arrow (Published in); Seeker's Due, Seeker's Peeress Shot (Spiritbond removed); Rippling Strike (Psychic only); Spirit's Sacrifice (Close Burst Spirit 5); Life and Death Struggle, Pain to Pleasure (Miss line), Summon Succubus (Intrinsic Nature), Void Shard (errata text); Knack for Success (Racial Utility); Cliffwalk Shifting (typo); Blastpatch (Cold, Fire, or Lightning); Raven Tens (no extra br); two Powers-section notes marked corrected.
+- **Source**: fix/fixes-needed.json
+- **Files touched**: 4e_database_files/power/data7.js; 4e_database_files/item/_index.js; fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
 ## 2026-01-29 — Batch: Implacable Enmity, Dervish's Challenge, Brand the Heretic, Memories of Wind and Rain, Rescue Familiar (5 fixes)
 
 - **Scope**: power

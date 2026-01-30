@@ -12283,7 +12283,7 @@ od.reader.jsonp_data_listing(
             "Dra380",
         ],
         ["feat2118", "Chosen Defender", "Paragon", "Paladin", "Dra381"],
-        ["feat1038", "Cliffwalk Shiffting", "Paragon", "Shifter", "PHB2"],
+        ["feat1038", "Cliffwalk Shifting", "Paragon", "Shifter", "PHB2"],
         ["feat1567", "Clinging Radiance", "Paragon", "Any divine class", "DP"],
         ["feat3076", "Clinging Vines", "Paragon", "Wilden", "Dra388"],
         [

@@ -4804,7 +4804,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat2118:
         "Chosen Defender Paragon Tier Prerequisite : 11th level, paladin Benefit : Enemies adjacent to you take a -2 penalty to attack rolls on opportunity attacks against your allies. Dragon Magazine 381, page(s) 93.",
     feat1038:
-        "Cliffwalk Shiffting Paragon Tier Prerequisite : 11th level, shifter Benefit : While you are under the effect of your razorclaw shifting or longtooth shifting racial power, you gain a climb speed equal to your speed. Player's Handbook 2, page(s) 190.",
+        "Cliffwalk Shifting Paragon Tier Prerequisite : 11th level, shifter Benefit : While you are under the effect of your razorclaw shifting or longtooth shifting racial power, you gain a climb speed equal to your speed. Player's Handbook 2, page(s) 190.",
     feat1567:
         "Clinging Radiance Paragon Tier Prerequisite : 11th level, any divine class Benefit : When you hit a target with a divine attack power that has the radiant keyword, the target loses any concealment or total concealment it has and cannot gain concealment or total concealment until the end of your next turn. Divine Power, page(s) 137.",
     feat3076:
