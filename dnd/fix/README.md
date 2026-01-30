@@ -15,7 +15,7 @@ All **fix-related files** (queue, HTML, scripts) live in **`fix/`**; compendium 
 | Source HTML (optional) | **`fix/fixes-needed.html`** |
 | Compendium data | **`4e_database_files/`** (project root) |
 | Scripts | **`fix/scripts/`** |
-| Change log | **`CHANGELOG.md`** (project root) |
+| Change log | **`fix/CHANGELOG.md`** |
 
 ---
 
@@ -69,7 +69,7 @@ Never edit only one of these; always update every file that contains that entry.
 If you have **Portable Compendium** SQL dumps (`Portable Compendium New/sql/*.sql`), you can pull canonical HTML:
 
 ```bash
-python3 scripts/portable_sql_extract.py \
+python3 fix/scripts/portable_sql_extract.py \
   --table power \
   --name "Twin Strike" \
   --limit 1 \
@@ -92,7 +92,7 @@ Use the extracted content to guide or paste the correct HTML into `dataN.js` and
 
 2. **Regenerate fix-status HTML**  
    ```bash
-   python3 scripts/render_fixes_html.py --input fix/fixes-needed.json --output fix/index.htm
+   python3 fix/scripts/render_fixes_html.py --input fix/fixes-needed.json --output fix/index.htm
    ```
    Or run with no args (defaults point to `fix/`). This keeps **`fix/index.htm`** up-to-date.
 
@@ -103,7 +103,7 @@ Use the extracted content to guide or paste the correct HTML into `dataN.js` and
    (Validation output can stay at project root or go in `fix/`; your choice.)  
    Check the report: `missing_data`, `missing_index`, `misrouted_data`, `extra_index`, `global_name_index_missing` should all be 0. Fix any issues before continuing.
 
-4. **Update CHANGELOG.md**  
+4. **Update fix/CHANGELOG.md**  
    Add a short entry: date, what was fixed (entry name/source), and that validation passed.
 
 5. **Quick smoke test**  
@@ -124,13 +124,13 @@ Use the extracted content to guide or paste the correct HTML into `dataN.js` and
 
 | Script | Purpose |
 |--------|--------|
-| `scripts/mark_fix_corrected.py` | Set status to `corrected` in `fix/fixes-needed.json` by matching fix text. |
-| `scripts/render_fixes_html.py` | Regenerate `fix/index.htm` from `fix/fixes-needed.json`. |
-| `scripts/validate_compendium.py` | Check data/index/listing/catalog consistency; write report to `compendium-validation.json`. |
-| `scripts/portable_sql_extract.py` | Pull entry HTML from Portable Compendium SQL (optional). |
+| `fix/scripts/mark_fix_corrected.py` | Set status to `corrected` in `fix/fixes-needed.json` by matching fix text. |
+| `fix/scripts/render_fixes_html.py` | Regenerate `fix/index.htm` from `fix/fixes-needed.json`. |
+| `fix/scripts/validate_compendium.py` | Check data/index/listing/catalog consistency; write report to `compendium-validation.json`. |
+| `fix/scripts/portable_sql_extract.py` | Pull entry HTML from Portable Compendium SQL (optional). |
 
 Other scripts in `fix/scripts/` (e.g. batch fix, extract, prioritize) were used for the initial bulk run; for **new one-off fixes**, the workflow above is enough.
 
 ---
 
-You’re done when: the fix is in `4e_database_files/`, the entry is `corrected` in `fix/fixes-needed.json`, `fix/index.htm` is regenerated, validation is clean, and `CHANGELOG.md` is updated.
+You’re done when: the fix is in `4e_database_files/`, the entry is `corrected` in `fix/fixes-needed.json`, `fix/index.htm` is regenerated, validation is clean, and `fix/CHANGELOG.md` is updated.

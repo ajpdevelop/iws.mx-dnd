@@ -12,6 +12,36 @@ Use one entry per batch. Keep it short and factual.
 - **Smoke test**: listing/detail/search/lookup (pass/fail)
 
 ---
+## 2026-01-29 — Batch: Agile Recovery, Shadow Sight, Favor of Tymora (3 simple fixes)
+
+- **Scope**: power, feat
+- **Entries**: (1) Agile Recovery (power9295)—added Personal keyword (Acrobatics Util 2, PHB3:164). (2) Shadow Sight (power16627)—"Miss" → "Effect" (Misshapen Util 2, DR416). (3) Favor of Tymora (feat723 embedded power)—"Minor Action" → "Immediate Reaction" in feat data (Channel Divinity, DR365:24).
+- **Source**: fix/fixes-needed.json
+- **Files touched**: 4e_database_files/power/data15.js, data7.js, _index.js; 4e_database_files/feat/data3.js; fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
+## 2026-01-29 — Batch: Winter's Kiss missing Target line (power11556)
+
+- **Scope**: power
+- **Entries**: Winter's Kiss (power11556)—added missing "Target: One creature" line (Bralani Wintersoul E11, DR384). Placement verified from Portable Compendium SQL (ddiPower.sql).
+- **Source**: fix/fixes-needed.json + Portable Compendium New/sql/ddiPower.sql (portable_sql_extract.py)
+- **Files touched**: 4e_database_files/power/data16.js, _index.js, fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
+## 2026-01-29 — Batch: Shadowy Figurine typo (power14401)
+
+- **Scope**: power
+- **Entries**: Shadowy Figurine (power14401)—typo "within ange" → "within range." (Artificer Utility 2, DR403)
+- **Source**: fix/fixes-needed.json
+- **Files touched**: 4e_database_files/power/data1.js, _index.js, fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
 ## 2026-01-29 — Batch: Ammunition labels + Gauntlet Axe (mixed fix)
 
 - **Scope**: weapon

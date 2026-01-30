@@ -1,5 +1,4 @@
 {
-
   "Powers": [
     {
       "text": "Note: Many of the following powers need to be fixed both in the “powers” entry and in their class entries (for essentials classes) or paragon path/epic destiny entries.",
@@ -255,7 +254,7 @@
     },
     {
       "text": "Agile Recovery (Acrobatics Util 2) (PHB3:164): Should have Personal keyword.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Decelerating Slash (Ardent Daily 5) (PsP:12) : Remove incorrect indentation before \"Each Failed Saving Throw\" line.",
@@ -267,7 +266,7 @@
     },
     {
       "text": "Shadowy Figurine (Artificer Utility 2)(DR 403) : Typo in the description: \"You conjure a shadowy figurine in a square within ange\" should be \"within range.\"",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Prescient Knowledge (Avenger Utility 6) (DR384:46): Utility listed as attack.",
@@ -275,11 +274,11 @@
     },
     {
       "text": "Winter's Kiss (Bralani Wintersoul E11) (DR384): Missing line: \"Target: One creature.\"",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Favor of Tymora (Channel Divinity) (DR365:24): Should be an Immediate Reaction, not a Minor Action",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Implacable Enmity (Devout Warpriest Attack 20) (NCS:56): Incorrectly marked as \"utility\" rather than \"attack\"",
@@ -319,7 +318,7 @@
     },
     {
       "text": "Shadow Sight (Misshapen Utility 2) (DR416) : \"Miss\" should be \"Effect\"",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Void Shard (Psion At-Will 13) (PsP:93): The Augment 1 entry should have \"the Void Shard Attack power\" replaced with \"the following power\". Remove the \"Special\" line in the Void Shard Attack entry per errata.",
@@ -964,10 +963,6 @@
     {
       "text": "Boughs of the World Tree (World Tree Guardian Utility 26) (PrP:156)",
       "status": "corrected"
-    },
-    {
-      "text": "by level",
-      "status": "needs_fix"
     },
     {
       "text": "Vestige of Kulnoghrim (Umbral Cabalist Daily 20) (DR383:42)",

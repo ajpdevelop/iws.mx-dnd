@@ -524,8 +524,8 @@ modify `4e_database_files` or the Portable Compendium data.
 
 ```
 python3 fix/scripts/extract_fixes_needed.py \
-  --input fixes-needed.html \
-  --output fixes-needed.json
+  --input fix/fixes-needed.html \
+  --output fix/fixes-needed.json
 ```
 
 Optional:
@@ -566,8 +566,8 @@ Notes:
 ### 18.3 Validate compendium integrity
 
 ```
-python3 scripts/validate_compendium.py \
-  --output compendium-validation.json
+python3 fix/scripts/validate_compendium.py \
+  --output fix/compendium-validation.json
 ```
 
 Checks:
