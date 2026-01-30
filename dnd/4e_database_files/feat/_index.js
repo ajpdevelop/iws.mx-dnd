@@ -5996,7 +5996,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1919:
         "Earthstrength Might Epic Tier Prerequisite : 21st level, warden, Earthstrength class feature Benefit : When you use your second wind, you can make a melee basic attack as a free action. Primal Power, page(s) 146.",
     feat3723:
-        "Earthwalker Prerequisite : 21st level, Born of the Elements feat Benefit : You gain earth walk, meaning that you ignore difficult terrain caused by rubble, uneven stone, or earthen construction. In addition, whenever you use your second wind, you have phasing until the end of your next turn. Using this feat, you can phase only through earth and rock. Heroes of the Elemental Chaos, page(s) 143.",
+        "Earthwalker Epic Tier Prerequisite : 21st level, Born of the Elements feat Benefit : You gain earth walk, meaning that you ignore difficult terrain caused by rubble, uneven stone, or earthen construction. In addition, whenever you use your second wind, you have phasing until the end of your next turn. Using this feat, you can phase only through earth and rock. Heroes of the Elemental Chaos, page(s) 143.",
     feat2021:
         "Echo of Letherna Epic Tier Prerequisite : 21st level, any divine class, must worship the Raven Queen Benefit : Your divine attack powers that deal radiant damage instead deal necrotic and radiant damage. These prayers gain the necrotic keyword. Dragon Magazine 380, page(s) 65.",
     feat1694:
@@ -6101,7 +6101,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat2022:
         "Harvester of Sorrows Epic Tier Prerequisite : 21st level, avenger, oath of enmity power, must worship the Raven Queen Benefit : Whenever you reduce the target of your oath of enmity to 0 hit points, any enemy you can see within 10 squares grants combat advantage to you until the end of your next turn. Dragon Magazine 380, page(s) 65.",
     feat3760:
-        "Haunted Prerequisite : 21st level Benefit : When you make a Perception check or an Insight check, you can roll twice and use either result. Into the Unknown: The Dungeon Survival Handbook, page(s) 102.",
+        "Haunted Epic Tier Prerequisite : 21st level Benefit : When you make a Perception check or an Insight check, you can roll twice and use either result. Into the Unknown: The Dungeon Survival Handbook, page(s) 102.",
     feat884:
         "Hawkeye Warrior Epic Tier Prerequisite : 21st level, Wis 17, elf, any martial class Benefit : When you use the elven accuracy racial power, you gain a +1 bonus to attack rolls against the target of the attack until the end of the encounter. Martial Power, page(s) 147.",
     feat2528:
@@ -6345,7 +6345,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1110:
         "Scent of Blood [Vampire Bloodline] Epic Tier Prerequisite : 21st level, Vampire Bloodline feat Benefit : Living, bloodied enemies grant you combat advantage. Dragon Magazine Annual, Dragon Magazine 371, page(s) 35.",
     feat3734:
-        "Seastrider Prerequisite : 21st level, Born of the Elements feat Benefit : You can shift through enemies' spaces. In addition, you can use a move action to move up to your speed across a liquid surface, treating it as solid ground. If you end the move on the liquid, you sink. Heroes of the Elemental Chaos, page(s) 145.",
+        "Seastrider Epic Tier Prerequisite : 21st level, Born of the Elements feat Benefit : You can shift through enemies' spaces. In addition, you can use a move action to move up to your speed across a liquid surface, treating it as solid ground. If you end the move on the liquid, you sink. Heroes of the Elemental Chaos, page(s) 145.",
     feat1927:
         "Second Skin Epic Tier Prerequisite : 21st level, Con 17, any primal class, proficiency with hide armor Benefit : While you are wearing hide armor, you gain a +2 feat bonus to AC, and the armor's check penalty is reduced by 1. In addition, you gain a +1 bonus to the attack rolls of primal fear powers you use. Primal Power, page(s) 147.",
     feat2687:
@@ -6510,7 +6510,7 @@ od.reader.jsonp_data_index(20130616, "feat", {
     feat1936:
         "Wild Surge Epic Tier Prerequisite : 21st level, druid, wild shape power Benefit : When you use wild shape to change from beast form to your humanoid form, you can use your second wind as a free action. Primal Power, page(s) 148.",
     feat3737:
-        "Windfoot Prerequisite : 21st level, Born of the Elements feat Benefit : You take only half damage from falling. In addition, when you use your second wind, you can fly up to 2 squares as a free action. Heroes of the Elemental Chaos, page(s) 145.",
+        "Windfoot Epic Tier Prerequisite : 21st level, Born of the Elements feat Benefit : You take only half damage from falling. In addition, when you use your second wind, you can fly up to 2 squares as a free action. Heroes of the Elemental Chaos, page(s) 145.",
     feat1216:
         "Wizard Implement Expertise Epic Tier Prerequisite : 21st level, Dex 15, Int 21, Wis 15, wizard Benefit : When you wield a wizard implement while using an arcane power, you can score a critical hit on a roll of 19–20. Arcane Power, page(s) 135.",
 })

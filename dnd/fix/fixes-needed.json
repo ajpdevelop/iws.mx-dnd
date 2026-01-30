@@ -966,7 +966,7 @@
     },
     {
       "text": "Vestige of Kulnoghrim (Umbral Cabalist Daily 20) (DR383:42)",
-      "status": "needs_fix"
+      "status": "corrected"
     }
   ],
   "Feats": [
@@ -1230,19 +1230,19 @@
     },
     {
       "text": "Earthwalker",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Haunted",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Seastrider",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Windfoot",
-      "status": "needs_fix"
+      "status": "corrected"
     }
   ],
   "Earthwalker": [],
@@ -1376,7 +1376,7 @@
     },
     {
       "text": "Accurate Implements [All] (MME:41): Should specify that accurate bonus applies only to implement attacks made with accurate implement.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Earthfall Totem (AV2): Level 22 totem should also do 2d6 extra damage.",
@@ -1388,7 +1388,7 @@
     },
     {
       "text": "Master's Wand of Magic Missile (DMK:283): Later source has item lvl 4+, not 3+.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Orb of Impenetrable Escape: Critical bonus (1d6 per plus) missing.",
@@ -1397,10 +1397,6 @@
     {
       "text": "Rod of the Churning Inferno (AV:100): Level 17/22/27 increases to ongoing damage missing. Level 17 or 22: ongoing 10. Level 27: ongoing 15.",
       "status": "corrected"
-    },
-    {
-      "text": "Symbol of Hope (PHB:237): Reference to errata not listed (CErr:110)",
-      "status": "needs_fix"
     }
   ],
   "Armor": [
@@ -1564,7 +1560,7 @@
     },
     {
       "text": "Shadowdancer's Garb (AV2:105): Shadowdancer's Gloves should have Common rarity, not Uncommon, per Compiled Errata document. Item entry itself is fine.",
-      "status": "needs_fix"
+      "status": "corrected"
     }
   ],
   "Rings": [
@@ -1730,11 +1726,11 @@
     },
     {
       "text": "Vadalis-bred Griffon (EPG:79) : Melee Basic Attack missing + 3 bonus and vs. AC.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Has Cooperative Charge feature listed 3 times.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Wrab Familiar (DR397:4): Familiar's blindsight does not include its range of 5.",

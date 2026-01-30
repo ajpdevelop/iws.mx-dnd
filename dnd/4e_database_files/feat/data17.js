@@ -314,5 +314,5 @@ od.reader.jsonp_batch_data(20160803, "feat", {
     feat1057:
         "<h1 class=player>Transcendent Lineage</h1><p class=flavor><b>Epic Tier</b><br><b>Prerequisite</b>: 21st level, deva<br><b>Benefit</b>: When you use your memory of a thousand lifetimes racial power, you can reroll the die and add either result to the triggering roll.<br></p><p class=publishedIn>Published in Player's Handbook 2, page(s) 195.</p>",
     feat3737:
-        "<h1 class=player>Windfoot</h1><p class=flavor><b>Prerequisite</b>: 21st level, Born of the Elements feat<br><b>Benefit</b>: You take only half damage from falling.<br>    In addition, when you use your second wind, you can fly up to 2 squares as a free action.<br></p><p class=publishedIn>Published in Heroes of the Elemental Chaos, page(s) 145.</p>",
+        "<h1 class=player>Windfoot</h1><p class=flavor><b>Epic Tier</b><br><b>Prerequisite</b>: 21st level, Born of the Elements feat<br><b>Benefit</b>: You take only half damage from falling.<br>    In addition, when you use your second wind, you can fly up to 2 squares as a free action.<br></p><p class=publishedIn>Published in Heroes of the Elemental Chaos, page(s) 145.</p>",
 })

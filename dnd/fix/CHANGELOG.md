@@ -12,6 +12,26 @@ Use one entry per batch. Keep it short and factual.
 - **Smoke test**: listing/detail/search/lookup (pass/fail)
 
 ---
+## 2026-01-30 — Batch: Remaining Companions and Implements fixes
+
+- **Scope**: implement, glossary, companion
+- **Entries**: (Implements) Accurate Implements [All] (MME:41)—updated Accurate property in glossary and all accurate implement entries (dagger, ki focus, orb, rod, staff, symbol, totem, wand) to "You gain a +1 bonus to implement attack rolls when you make an implement attack with an accurate implement" so the bonus is clearly limited to implement attacks made with the accurate implement. Master's Wand of Magic Missile—already Level 4+ in data; marked corrected. (Companions) Vadalis-bred Griffon (EPG:79)—Melee Basic Attack: added "+ 3" and "AC" so it reads "Claw; level + 3 vs. AC; 2d6 + Strength modifier damage" in companion/data14.js and companion/_index.js. Cooperative Charge listed 3 times—removed two duplicate Cooperative Charge paragraphs from Vadalis-bred Griffon in data14.js and _index.js (kept one).
+- **Source**: fix/fixes-needed.json
+- **Files touched**: 4e_database_files/implement/_index.js, data2.js, data3.js, data6.js, data7.js, data11.js, data18.js, data19.js; 4e_database_files/glossary/_index.js (no net change); 4e_database_files/companion/data14.js, _index.js; fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
+## 2026-01-30 — Batch: Vestige of Kulnoghrim miscoloring; 4 feats Epic Tier label
+
+- **Scope**: power, feat
+- **Entries**: (1) Vestige of Kulnoghrim—power/data11.js: changed &lt;h1 class=encounterpower&gt; to class=dailypower so the Daily power displays with correct (daily) coloring. (2) Earthwalker, Haunted, Seastrider, Windfoot—added Epic Tier label in feat data (data0.js, data3.js, data14.js, data17.js) and feat/_index.js so all four show "Epic Tier" like other 21st-level feats.
+- **Source**: fix/fixes-needed.json
+- **Files touched**: 4e_database_files/power/data11.js; 4e_database_files/feat/data0.js, data3.js, data14.js, data17.js, _index.js; fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
 ## 2026-01-30 — Batch: Tier 3 simple fixes (implement, item, monster)
 
 - **Scope**: implement, item, monster
