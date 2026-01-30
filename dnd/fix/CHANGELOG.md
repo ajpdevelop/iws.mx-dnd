@@ -12,6 +12,36 @@ Use one entry per batch. Keep it short and factual.
 - **Smoke test**: listing/detail/search/lookup (pass/fail)
 
 ---
+## 2026-01-30 — Batch: Simple fixes (class) — 5 entries
+
+- **Scope**: class
+- **Entries**: (1) Cleric (Templar) (PHB1:61)—added free ritual book sentence (Gentle Repose + one 1st-level ritual) to RITUAL CASTING in class/data2.js and _index.js. (2) Wizard (All) Cantrips—added cantrip list (Ghost Sound, Light, Mage Hand, Prestidigitation, Suggestion, Disrupt Undead, Spook) to Wizard (Arcanist) CANTRIPS in class/data9.js and _index.js. (3) Wizard (Sha'ir) Familiars—added Sha'ir-specific familiars list (Daolanin, Djinnling, Efreetking, Maridan) to GEN SERVANT in class/data18.js and _index.js. (4) One-handed Weapon Talent (Hybrid)—Hybrid Fighter: "attack rolls" → "weapon attack rolls" in class/data13.js and _index.js. (5) Hybrid Vampire (DR400:6)—healing surges sentence already present; marked corrected (no data change).
+- **Source**: fix/fixes-needed.json
+- **Files touched**: 4e_database_files/class/data2.js, data9.js, data13.js, data18.js, _index.js; fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
+## 2026-01-30 — Batch: Simple fixes (items, glossary, class) — 10 entries
+
+- **Scope**: item, glossary, class
+- **Entries**: (1) Chaos Cloak (item858)—removed duplicated die-roll labels ("1-2: 1-2:" → "1-2:", etc.) in Power Effect. (2) Amulet of Psychic Interference (item499)—Daily Power effect tiers: Level 5 or 10: 10 damage; Level 15 or 20: 15; Level 25 or 30: 20 (was 10/15, 20/30). (3) Initiative (glossary637)—added initiative modifier components: one-half level + Dexterity + other bonuses (RC:192). (4) Retraining (glossary625)—added Theme Retraining paragraph (HotFW:104). (5) Primordial Channeler—already "11th level"; marked corrected. (6) Druid (Sentinel) / Hybrid Druid (Sentinel)—"Primal Guardian (Sentinel)" → "Primal Guardian" in class779, class894, _index. (7) Magic Items listing—note; marked corrected. Marked corrected (no data change): Die rolls duplicated, Amulet tiers, Initiative, Retraining, Primordial Channeler, Druid Primal Guardian, Magic Items listing.
+- **Source**: fix/fixes-needed.json
+- **Files touched**: 4e_database_files/item/data18.js, data19.js, _index.js; 4e_database_files/glossary/data5.js, data17.js, _index.js; 4e_database_files/class/data14.js, data19.js, _index.js; fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
+## 2026-01-30 — Batch: Blade of Vengeance, Spying Mirrors, Courageous Strike (3 fixes)
+
+- **Scope**: weapon, item, power
+- **Entries**: (1) Blade of Vengeance (weapon678)—added Special line "This weapon is part of the Radiant Temple Treasures item set"; fixed typo mmistat → mistat. (2) Spying Mirrors (pair) (item2593)—added Special paragraph: "The two mirrors must be used together; the power does not function if the mirrors are separated or if one is lost." (3) Courageous Strike (power10287)—removed erroneous "one ally adjacent to the target can make a melee basic attack against it as an opportunity action" from Augment 2 Hit line (PHB3:28 errata; duplicated Mindlink Strike).
+- **Source**: fix/fixes-needed.json
+- **Files touched**: 4e_database_files/weapon/data18.js, _index.js; 4e_database_files/item/data13.js, _index.js; 4e_database_files/power/data7.js, _index.js; fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
 ## 2026-01-30 — Batch: Remaining Companions and Implements fixes
 
 - **Scope**: implement, glossary, companion
