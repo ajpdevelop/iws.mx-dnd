@@ -12734,6 +12734,7 @@ od.reader.jsonp_name_index(20160808, {
     "armor of escape": "armor3117",
     "armor of storms": "power10221",
     "armor of winter": "feat2003",
+    "armor of wrath": "power5184",
     "armorcutter ant": "monster4313",
     "armored assault": "power12196",
     "armored warlord": "feat2396",

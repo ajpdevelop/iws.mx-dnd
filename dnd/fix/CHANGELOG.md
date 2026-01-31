@@ -12,6 +12,36 @@ Use one entry per batch. Keep it short and factual.
 - **Smoke test**: listing/detail/search/lookup (pass/fail)
 
 ---
+## 2026-01-30 — Batch: Armor of Wrath (Invoker Feature) — 1 entry
+
+- **Scope**: power
+- **Entries**: Armor of Wrath (Invoker Feature) (PHB2:102)—was missing from Power listing; added power5184 to power/data6.js, power/_index.js, and power/_listing.js (Encounter, Immediate Reaction, Close burst 5; Channel Divinity; Trigger: enemy within 5 hits you; Effect: radiant damage = Con mod, push 2; Level 11/21 scaling). Source: Portable Compendium ddiPower.sql.
+- **Source**: fix/fixes-needed.json, Portable Compendium New/sql/ddiPower.sql
+- **Files touched**: 4e_database_files/power/data6.js, _index.js, _listing.js; 4e_database_files/catalog.js (power count 9410→9411), index.js ("armor of wrath"→power5184); fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
+## 2026-01-30 — Batch: Consumables and Alchemical Items — 3 entries
+
+- **Scope**: weapon (ammunition), item (alchemical)
+- **Entries**: (1) Alchemist's Spark Ammunition (EPG:99)—added missing power details (Power (Lightning) ✦ Consumable, Area burst 1 within 10, +6 vs. Reflex; 1d6 lightning damage and -1 penalty to attack rolls; Level 9/14/19/24/29 scaling) to weapon/data14.js and weapon/_index.js (from Portable Compendium ddiItem.sql). (2–3) Salve of Slipperiness (Alchemical Item) (AV:29)—added higher-level bonus lines (Level 13: +16; Level 18: +19; Level 23: +21; Level 28: +24) to item/data2.js and item/_index.js (from ddiItem.sql); both duplicate fix entries marked corrected.
+- **Source**: fix/fixes-needed.json, Portable Compendium New/sql/ddiItem.sql
+- **Files touched**: 4e_database_files/weapon/data14.js, _index.js; 4e_database_files/item/data2.js, _index.js; fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
+## 2026-01-30 — Batch: Races, Classes, Paragon Paths, and Features — 4 entries
+
+- **Scope**: companion (animal companions), class (hybrid)
+- **Entries**: (1) Wolf Animal Companion (HotFK:91)—added low-light vision to data1.js and _index.js; "(add your level to each defense)" already present. (2) Living Zephyr (HotEC:62)—"(add your level to each defense)" already present in data4.js and _index.js; marked corrected (no data change). (3) Hybrid Assassin (Executioner)—added Way of the Ninja (Hybrid) guild option with Ninja-to Rush, Poisonous Shuriken, Whirling Kusari-gama to class/data11.js. (4) Hybrid Fighter (DSCS)—added Arena fighting (Hybrid) to Hybrid Talent Options in class/data13.js and class/_index.js.
+- **Source**: fix/fixes-needed.json
+- **Files touched**: 4e_database_files/companion/data1.js, _index.js; 4e_database_files/class/data11.js, data13.js, _index.js; fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
 ## 2026-01-30 — Batch: Simple fixes (class) — 5 entries
 
 - **Scope**: class

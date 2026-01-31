@@ -302,7 +302,7 @@
     },
     {
       "text": "Armor of Wrath (Invoker Feature) (PHB2: 102): Missing from Power listing.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Preserver's Rebuke (Invoker Feature) (PHB2: 102): Missing from Power listing.",
@@ -1814,7 +1814,7 @@
     },
     {
       "text": "Alchemist's Spark Ammunition (EPG:99): Missing power details.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Blastpatch (AV:25): Power should be \"(Cold, Fire, or Lightning)",
@@ -1822,11 +1822,11 @@
     },
     {
       "text": "Salve of Slipperiness (Alchemical Item) (AV:29): Higher level versions lack the increased effect.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Salve of Slipperiness (Alchemical Item) (AV:29): Higher level versions lack the increased effect.",
-      "status": "needs_fix"
+      "status": "corrected"
     }
   ],
   "Item Sets": [
@@ -2062,19 +2062,19 @@
     },
     {
       "text": "Wolf Animal Companion (HotFK:91) : Will defense displaced. \"(add your level to each defense)\" missing. Low light vision is missing as well.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Living Zephyr (HotEC:62): \"(add your level to each defense)\" missing.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Hybrid Assassin (Executioner): Missing way of the ninja (hybrid).",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Hybrid Fighter (DSCS): Arena fighting (Hybrid) option missing (included in CB).",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "One-handed Weapon Talent (Hybrid) and Two-handed weapon talent should have their bonuses apply only to weapon attack rolls.",

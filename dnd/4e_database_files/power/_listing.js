@@ -40270,6 +40270,16 @@ od.reader.jsonp_data_listing(20130703, "power", ["ID", "Name", "ClassName", "Lev
       "DP"
     ],
     [
+      "power5184",
+      "Armor of Wrath",
+      "Invoker",
+      "",
+      "Enc. Feature",
+      "Imm. Reaction",
+      "Radiant, Divine",
+      "PHB2"
+    ],
+    [
       "power5186",
       "Rebuke Undead",
       "Invoker",
