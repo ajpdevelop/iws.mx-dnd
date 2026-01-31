@@ -306,7 +306,7 @@
     },
     {
       "text": "Preserver's Rebuke (Invoker Feature) (PHB2: 102): Missing from Power listing.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Brand the Heretic (Invoker Daily 9) (D383:34) : Range is \"Melee 1 or Ranged 5\".",
@@ -314,7 +314,7 @@
     },
     {
       "text": "Elemental Transformation (Legendary Hexblade Attack 20) (HotEC:135) : Missing.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Shadow Sight (Misshapen Utility 2) (DR416) : \"Miss\" should be \"Effect\"",
@@ -354,11 +354,11 @@
     },
     {
       "text": "Bludgeoning Counterstrike (Stalwart Knight Utility 12) (HotFL:141) : Power missing. Level and type missing in Paragon Path entry.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Shielding Blade (Stalwart Knight Utility 12) (HotFL:140) : Power missing. Level and type missing in Paragon Path entry.",
-      "status": "needs_fix"
+      "status": "corrected"
     },
     {
       "text": "Echoing Dirge (HoS:66): Power should have no level. (Not level 1)",

@@ -34340,6 +34340,26 @@ od.reader.jsonp_data_listing(20130703, "power", ["ID", "Name", "ClassName", "Lev
       "MP"
     ],
     [
+      "power12682",
+      "Shielding Blade",
+      "Fighter",
+      "12",
+      "Enc. Utility",
+      "Imm. Reaction",
+      "Martial",
+      "HotFL"
+    ],
+    [
+      "power12683",
+      "Bludgeoning Counterstrike",
+      "Fighter",
+      "12",
+      "Enc. Utility",
+      "Imm. Reaction",
+      "Martial",
+      "HotFL"
+    ],
+    [
       "power1021",
       "Anvil of Doom",
       "Fighter",
@@ -40280,6 +40300,16 @@ od.reader.jsonp_data_listing(20130703, "power", ["ID", "Name", "ClassName", "Lev
       "PHB2"
     ],
     [
+      "power5185",
+      "Preserver's Rebuke",
+      "Invoker",
+      "",
+      "Enc. Feature",
+      "Imm. Reaction",
+      "Divine",
+      "PHB2"
+    ],
+    [
       "power5186",
       "Rebuke Undead",
       "Invoker",
@@ -43478,6 +43508,16 @@ od.reader.jsonp_data_listing(20130703, "power", ["ID", "Name", "ClassName", "Lev
       "Minor",
       "Arcane",
       "Dra393"
+    ],
+    [
+      "power16333",
+      "Elemental Transformation",
+      "Legendary Hexblade",
+      "20",
+      "Daily Attack",
+      "Minor",
+      "Arcane, Elemental, Polymorph",
+      "HotEC"
     ],
     [
       "power13677",

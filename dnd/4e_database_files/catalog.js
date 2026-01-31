@@ -1,5 +1,5 @@
 od.reader.jsonp_catalog(20130616, {
-    "power": 9411,
+    "power": 9415,
     "monster": 5326,
     "feat": 3272,
     "item": 1964,

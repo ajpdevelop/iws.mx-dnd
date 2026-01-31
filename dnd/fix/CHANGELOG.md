@@ -12,6 +12,36 @@ Use one entry per batch. Keep it short and factual.
 - **Smoke test**: listing/detail/search/lookup (pass/fail)
 
 ---
+## 2026-01-30 — Batch: Bludgeoning Counterstrike and Shielding Blade (Stalwart Knight Utility 12) — 2 entries
+
+- **Scope**: power
+- **Entries**: (1) Bludgeoning Counterstrike (Stalwart Knight Utility 12) (HotFL:141)—was missing from Power listing; added power12683 to power/data3.js, _index.js, _listing.js (Encounter ✦ Martial, Immediate Reaction, Personal; Trigger: enemy misses you with melee attack while wielding hammer or mace; Effect: +2 power bonus to attack rolls with hammer/mace vs. triggering enemy). (2) Shielding Blade (Stalwart Knight Utility 12) (HotFL:140)—was missing; added power12682 to power/data2.js, _index.js, _listing.js (Encounter ✦ Martial, Immediate Reaction, Personal; Trigger: enemy misses you with melee attack while wielding heavy blade; Effect: +2 power bonus to all defenses vs. triggering enemy). Source: Portable Compendium ddiPower.sql.
+- **Source**: fix/fixes-needed.json, Portable Compendium New/sql/ddiPower.sql
+- **Files touched**: 4e_database_files/power/data2.js, data3.js, _index.js, _listing.js; 4e_database_files/catalog.js (power count 9413→9415), index.js ("bludgeoning counterstrike"→power12683, "shielding blade"→["weapon2486","power12682"]); fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
+## 2026-01-30 — Batch: Elemental Transformation (Legendary Hexblade Attack 20) — 1 entry
+
+- **Scope**: power
+- **Entries**: Elemental Transformation (Legendary Hexblade Attack 20) (HotEC:135)—was missing from Power listing; added power16333 to power/data13.js, power/_index.js, power/_listing.js (Daily ✦ Arcane, Elemental, Polymorph; Minor Action Personal; resist 5 acid/cold/fire/lightning/thunder, +2 AC and Fort, secondary power once per round; Elemental Transformation Secondary Power At-Will Close burst 1). Source: Portable Compendium ddiPower.sql.
+- **Source**: fix/fixes-needed.json, Portable Compendium New/sql/ddiPower.sql
+- **Files touched**: 4e_database_files/power/data13.js, _index.js, _listing.js; 4e_database_files/catalog.js (power count 9412→9413), index.js ("elemental transformation"→power16333); fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
+## 2026-01-30 — Batch: Preserver's Rebuke (Invoker Feature) — 1 entry
+
+- **Scope**: power
+- **Entries**: Preserver's Rebuke (Invoker Feature) (PHB2:102)—was missing from Power listing; added power5185 to power/data5.js, power/_index.js, power/_listing.js (Encounter, Immediate Reaction, Personal; Channel Divinity; Trigger: enemy within 10 hits your ally; Effect: bonus to next attack roll vs. triggering enemy = Int mod). Source: Portable Compendium ddiPower.sql.
+- **Source**: fix/fixes-needed.json, Portable Compendium New/sql/ddiPower.sql
+- **Files touched**: 4e_database_files/power/data5.js, _index.js, _listing.js; 4e_database_files/catalog.js (power count 9411→9412), index.js ("preserver's rebuke"→power5185); fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
 ## 2026-01-30 — Batch: Armor of Wrath (Invoker Feature) — 1 entry
 
 - **Scope**: power
