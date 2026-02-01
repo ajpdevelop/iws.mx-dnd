@@ -12,6 +12,16 @@ Use one entry per batch. Keep it short and factual.
 - **Smoke test**: listing/detail/search/lookup (pass/fail)
 
 ---
+## 2026-02-01 — Batch: Sorcerer-King Pact feats (D390) — benefit text (enhance not augment)
+
+- **Scope**: feat (Sorcerer-King Pact, Dragon Magazine 390)
+- **Entries**: 9 fix entries applied across 12 feats—Golden Lion of Urik, Tyrian Ascendant (Greater Pact); Balican Praetor, Balican High Praetor, Favored of Raam, Nibenese Bride, Spirit Talker of Lalali-Puy, Tyrian Bureaucrat, Yellow Cloak of Urik (Lesser Pact); Nibenese Favored Wife, Champion of Raam, Draji Devotee (Greater Pact). Benefit text: augment → enhance, augmented → enhanced; Golden Lion: added Once per encounter limits and closing sentence; Tyrian Ascendant: added against you; Lesser Pact feats: Once per encounter when you enhance hand of blight, the enhance would deal.
+- **Source**: fix/fixes-needed.json (Feats: D390 Sorcerer-King Pact entries). SQL did not have corrected text; changes applied from fix spec.
+- **Files touched**: 4e_database_files/feat/data0.js, data2.js, data3.js, data4.js, data5.js, data6.js, data7.js, data8.js, data9.js, data16.js, data17.js, data19.js, _index.js; fix/fixes-needed.json, fix/index.htm
+- **Validation**: pass (fix/compendium-validation.json)
+- **Smoke test**: pending
+
+---
 ## 2026-01-30 — Batch: Alchemical Items (Multiple Sources) — ritual rarity
 
 - **Scope**: ritual (alchemical item rituals)

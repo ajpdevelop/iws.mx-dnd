@@ -96,12 +96,19 @@ Use the extracted content to guide or paste the correct HTML into `dataN.js` and
    ```
    Or run with no args (defaults point to `fix/`). This keeps **`fix/index.htm`** up-to-date.
 
-3. **Validate compendium**  
+3. **⚠️ MANDATORY: Validate compendium (must pass before deploy)**  
    ```bash
-   python3 fix/scripts/validate_compendium.py
+   python3 fix/scripts/check_validation.py
    ```
-   Report is written to **`fix/compendium-validation.json`** by default (override with `--output`).  
-   Check the report: `missing_data`, `missing_index`, `misrouted_data`, `extra_index`, `global_name_index_missing` should all be 0. Fix any issues before continuing.
+   This runs validation and **exits with error code 1 if issues are found**. DO NOT DEPLOY if this fails.
+   
+   The script checks:
+   - `missing_data`: IDs in listing but missing from dataN.js
+   - `missing_index`: IDs in listing but missing from _index.js  
+   - `misrouted_data`: IDs in wrong dataN.js file (wrong bucket)
+   - `global_name_index_missing`: Names in index.js pointing to non-existent IDs
+   
+   Full report is written to `fix/compendium-validation.json`.
 
 4. **Update fix/CHANGELOG.md**  
    Add a short entry: date, what was fixed (entry name/source), and that validation passed.
@@ -124,6 +131,7 @@ Use the extracted content to guide or paste the correct HTML into `dataN.js` and
 
 | Script | Purpose |
 |--------|--------|
+| `fix/scripts/check_validation.py` | **Run this before deploy.** Runs validation and exits with error if issues found. |
 | `fix/scripts/mark_fix_corrected.py` | Set status to `corrected` in `fix/fixes-needed.json` by matching fix text. |
 | `fix/scripts/render_fixes_html.py` | Regenerate `fix/index.htm` from `fix/fixes-needed.json`. |
 | `fix/scripts/validate_compendium.py` | Check data/index/listing/catalog consistency; write report to `fix/compendium-validation.json`. |
@@ -133,4 +141,4 @@ Other scripts in `fix/scripts/` (e.g. batch fix, extract, prioritize) were used 
 
 ---
 
-You’re done when: the fix is in `4e_database_files/`, the entry is `corrected` in `fix/fixes-needed.json`, `fix/index.htm` is regenerated, validation is clean, and `fix/CHANGELOG.md` is updated.
+You’re done when: the fix is in `4e_database_files/`, the entry is `corrected` in `fix/fixes-needed.json`, `fix/index.htm` is regenerated, **check_validation.py passes**, and `fix/CHANGELOG.md` is updated.

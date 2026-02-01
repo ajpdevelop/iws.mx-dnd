@@ -379,6 +379,14 @@
     {
       "text": "Summon Succubus (Wizard Daily 9) (DR385:55) : Intrinsic Nature should be \" Intrinsic Nature: If you haven't given the succubus any commands by the end of your turn, it shifts 1 square and attacks you or your nearest ally within range.\"",
       "status": "corrected"
+    },
+    {
+      "text": "Form of the Primeval Serpent (Druid Daily 9) (Dr383:39): Primary power is minor action, not standard.",
+      "status": "corrected"
+    },
+    {
+      "text": "Blade of Light (Paladin Encounter 6) (DP:87): Range should be Melee weapon.",
+      "status": "corrected"
     }
   ],
   "Powers with augments that should have the Augmentable keyword": [
@@ -971,6 +979,42 @@
   ],
   "Feats": [
     {
+      "text": "Golden Lion of Urik [Greater Pact] (D390): Benefit text incorrect. Should include \"Once per encounter\" limits on both benefits (cursed-enemy-drop and fell-might expenditure); use \"enhance\"/\"enhanced\" not \"augment\"/\"augmented\"; first sentence should end with \"This is in addition to regaining the use of your fell might.\"",
+      "status": "corrected"
+    },
+    {
+      "text": "Tyrian Ascendant [Greater Pact] (D390): Benefit text incorrect. Add \"against you\" to clarify the –2 penalty applies only to attack rolls against you, not all attack rolls; use \"enhance\"/\"enhanced\" not \"augment\"/\"augmented\"; change \"an associated power augmented by this feat\" to \"a power enhanced by this feat.\"",
+      "status": "corrected"
+    },
+    {
+      "text": "Sorcerer-King Pact feats (D390, set: warlock sorcerer-king pact -mindbite -wrath -scorn): Replace all \"augment\" with \"enhance\" and \"augmented\" with \"enhanced\" throughout benefit text. Affects: Balican High Praetor, Balican Praetor, Champion of Raam, Draji Devotee, Favored of Raam, Golden Lion of Urik, Nibenese Bride, Nibenese Favored Wife, Spirit Master of Lalali-Puy, Spirit Talker of Lalali-Puy, Tyrian Ascendant, Tyrian Bureaucrat, Yellow Cloak of Urik. (Golden Lion and Tyrian Ascendant have additional fixes documented separately. Draji Aspirant is correct.)",
+      "status": "corrected"
+    },
+    {
+      "text": "Balican Praetor [Lesser Pact] (D390): Uses \"spend\" instead of \"enhance\"; should be \"When you enhance hand of blight\" (and \"the enhance would deal\").",
+      "status": "corrected"
+    },
+    {
+      "text": "Favored of Raam [Lesser Pact] (D390): \"When you augment hand of blight\" → \"When you enhance hand of blight\" (and \"the enhance would deal\").",
+      "status": "corrected"
+    },
+    {
+      "text": "Nibenese Bride [Lesser Pact] (D390): Add \"Once per encounter\"; change to \"Once per encounter when you enhance hand of blight\" (not \"When you augment hand of blight\").",
+      "status": "corrected"
+    },
+    {
+      "text": "Spirit Talker of Lalali-Puy [Lesser Pact] (D390): Add \"Once per encounter\"; change to \"Once per encounter when you enhance hand of blight\" (not \"When you augment hand of blight\").",
+      "status": "corrected"
+    },
+    {
+      "text": "Tyrian Bureaucrat [Lesser Pact] (D390): Add \"Once per encounter\"; change to \"Once per encounter when you enhance hand of blight\" (not \"When you augment hand of blight\").",
+      "status": "corrected"
+    },
+    {
+      "text": "Yellow Cloak of Urik [Lesser Pact] (D390): Add \"Once per encounter\"; change to \"Once per encounter when you enhance hand of blight\" (not \"When you augment hand of blight\").",
+      "status": "corrected"
+    },
+    {
       "text": "Awaken God Fragment (DR382:57): Missing god fragments entirely as well as an explanation of the god fragment mechanics. [I will not be putting them in. Look them up]",
       "status": "corrected"
     },
@@ -988,6 +1032,10 @@
     },
     {
       "text": "Champion of Raam (DR390:13): Does not list the powers associated with the feat: Otherwind stride, Sign of ill omen, Dark reach of Xevut, Strand of fate, Dark transport, Envoy of Nihal.",
+      "status": "corrected"
+    },
+    {
+      "text": "Spirit Master of Lalali-Puy (DR390): Benefit text needed correction—sliding should apply to \"that enemy and each enemy adjacent to you\"; fell might expend to enhance a power is once per encounter; first enemy hit with enhanced power makes basic attack.",
       "status": "corrected"
     },
     {
@@ -1072,6 +1120,14 @@
     },
     {
       "text": "Dragon Magazine 400 Feats [Shadow Master, Shadow Poisoner, Walker of the Dark Path, Arcane Vampire, Thirst for Blood, Divine Vampire, Martial Vampire, Monastic Vampire, Primal Vampire, Psionic Vampire, Vampirism, Knack for Survival, Sentinel Initiate, Squire of Righteousness, Archery Mastery, Disrupting Shot, Ranger's Powerful Strike]: Mistakenly listed as Published in Dragon 402.",
+      "status": "corrected"
+    },
+    {
+      "text": "Golden Lion of Urik (DR390:15): Add \"once per encounter\" to each enemy becoming prone or weakened. Add \"once per encounter\" to \"you can expend your fell might to enhance any power associated with this feat.\"",
+      "status": "corrected"
+    },
+    {
+      "text": "Balican Praetor (DR390:8): uses the word spend instead of augment",
       "status": "corrected"
     }
   ],
@@ -1397,6 +1453,10 @@
     {
       "text": "Rod of the Churning Inferno (AV:100): Level 17/22/27 increases to ongoing damage missing. Level 17 or 22: ongoing 10. Level 27: ongoing 15.",
       "status": "corrected"
+    },
+    {
+      "text": "Ice Scepter (Cairn of the Winter King:8): Item is missing from the compendium.",
+      "status": "needs_fix"
     }
   ],
   "Armor": [
@@ -1487,6 +1547,10 @@
     {
       "text": "Stag Helm (AV:145): The level 15 version should say “+4 item bonus, move action” and the level 25 version should say “+6 item bonus, standard action”",
       "status": "corrected"
+    },
+    {
+      "text": "Crown of Winter (Cairn of the Winter King:29): Item is missing from the compendium.",
+      "status": "needs_fix"
     }
   ],
   "Hands": [
@@ -2261,6 +2325,10 @@
     {
       "text": "Retraining: Theme retraining rules (HotFW:104) added.",
       "status": "corrected"
+    },
+    {
+      "text": "Dragonshard Augments (EPG): Missing dragonshard mechanics",
+      "status": "needs_fix"
     }
   ],
   "Other": [
@@ -2299,6 +2367,42 @@
     {
       "text": "Simian companion (DR392): missing Manipulate Items skill",
       "status": "corrected"
+    },
+    {
+      "text": "Dwarven Throwers (AV: 133): Does not have level 20 and 30 versions",
+      "status": "corrected"
+    },
+    {
+      "text": "Bound Soul: creature from Soul Binder paragon path (D427) is entirely absent",
+      "status": "needs_fix"
+    },
+    {
+      "text": "Tiamat (p.245 of the Draconomicon: Chromatic Dragons book) is entirely absent.",
+      "status": "needs_fix"
+    },
+    {
+      "text": "Monsters : Fledgling Black Dragon (p.47 of the Dungeon Master's Book from the Starter Set) is entirely absent",
+      "status": "needs_fix"
+    },
+    {
+      "text": "Rot Slinger Decayer (E1:13): Missing from the compendium (not to be confused with Rot Slinger)",
+      "status": "needs_fix"
+    },
+    {
+      "text": "Blackstar Idol (E1): Missing Blackstar Pulse aura. Entry is also duplicated as \"Blackstar Idol of Timesus,\" which does have the Blackstar Pulse aura — but no such distinction is made in the adventure.",
+      "status": "needs_fix"
+    },
+    {
+      "text": "Pit Fiend (MV: 55): Teleport 1 should be teleport 10 instead",
+      "status": "corrected"
+    },
+    {
+      "text": "Blackstar Annihilator (E1) and Blackstar Decimator (E3) are both treated as post-MM3 for the purposes of the filter \"Include old monsters\"",
+      "status": "needs_fix"
+    },
+    {
+      "text": "Kalarel, Scion of Orcus (H1): entire stat block is some wrong/beta version.",
+      "status": "needs_fix"
     }
   ]
 }
