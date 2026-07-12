@@ -191,5 +191,6 @@ od.reader.jsonp_data_listing(20130703, "companion", ["ID", "Name", "Type", "Size
     ["associate69", "Water Archon Grunt", "Summoned Creature", "Medium", "Aquatic, Elemental, Humanoid, Water", "HotEC"],
     ["associate78", "Water Monolith", "Summoned Creature", "Large", "Beast, Elemental, Magical, Water", "HotEC"],
     ["associate11", "Way Walker", "Summoned Creature", "Huge", "Aberrant, Beast, Magical", "Dra393"],
-    ["associate6", "Wood Woad Guardian", "Summoned Creature", "Medium", "Fey, Humanoid, Plant", "HotFK"]
+    ["associate6", "Wood Woad Guardian", "Summoned Creature", "Medium", "Fey, Humanoid, Plant", "HotFK"],
+    ["associate115", "Bound Soul", "Summoned Creature", "Medium", "Humanoid, Shadow, Undead", "Dra427"]
 ])

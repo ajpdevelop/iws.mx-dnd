@@ -11,7 +11,7 @@ od.reader.jsonp_catalog(20130616, {
     "armor": 493,
     "glossary": 535,
     "ritual": 360,
-    "companion": 193,
+    "companion": 194,
     "deity": 134,
     "theme": 116,
     "epicdestiny": 115,

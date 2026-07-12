@@ -12,6 +12,16 @@ Use one entry per batch. Keep it short and factual.
 - **Smoke test**: listing/detail/search/lookup (pass/fail)
 
 ---
+## 2026-07-12 — Batch: Bound Soul companion (1 new entry)
+
+- **Scope**: companion
+- **Entries**: Bound Soul (associate115, Summoned Creature, Soul Binder paragon path, Dragon 427) — was the open fixes-needed item [Other] "creature from Soul Binder paragon path (D427) is entirely absent."
+- **Source**: heroic4e.com compendium (ID_DRAG427_SOUL); formatted per the Air Archon Grunt summoned-creature template. One normalization: the Hit line reads "your Intelligence, Wisdom, or Charisma modifier" — the source data omitted the word modifier; someone with Dragon 427 in hand should double-check that plus the page number (omitted).
+- **Files touched**: companion/{data15,_index,_listing}.js, catalog.js (companion 193→194), index.js, fix/fixes-needed.json
+- **Validation**: pending
+- **Smoke test**: pending
+
+---
 ## 2026-07-12 — Batch: Cairn of the Winter King items (2 new entries)
 
 - **Scope**: implement, item
