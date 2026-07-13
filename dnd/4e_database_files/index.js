@@ -24580,7 +24580,7 @@ od.reader.jsonp_name_index(20160808, {
     "thorsk": "monster6284",
     "thrall": "power8259",
     "thrane": "background239",
-    "tiamat": ["deity141", "deity43"],
+    "tiamat": ["deity141","deity43","monster115941"],
     "tiktag": "monster5878",
     "tolvul": "monster3997",
     "tornak": "monster3798",
@@ -25099,5 +25099,8 @@ od.reader.jsonp_name_index(20160808, {
     "troglodyte": "glossary619",
     "ice scepter": "implement3739",
     "crown of winter": "item3754",
+    "rot slinger decayer": "monster115942",
+    "fledgling black dragon": "monster115943",
+    "dragonshard augments": "glossary682"
     "bound soul": "associate115"
 })
