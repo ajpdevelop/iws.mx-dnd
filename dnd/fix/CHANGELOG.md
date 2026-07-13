@@ -21,6 +21,13 @@ Use one entry per batch. Keep it short and factual.
 - **Source**: verbatim transcriptions from page scans, read visually (screenshots retained by contributor). Recharge dice transcribed as glyphs (⚄⚅ etc.) matching existing entry conventions.
 - **Files touched**: monster/{data1,data2,data3,data5,_index,_listing}.js, glossary/{data2,_index,_listing}.js, catalog.js (monster 5326→5329, glossary 535→536), index.js, fix/fixes-needed.json (6 items → corrected)
 - **Validation**: all touched jsonp files parse; monster listing rows == catalog count (5329); name lookups resolve (tiamat now [deity141, deity43, monster115941])
+## 2026-07-12 — Batch: Cairn item corrections (2 entries fixed)
+
+- **Scope**: implement, item
+- **Entries**: Ice Scepter (implement3739), Crown of Winter (item3754) — corrections to our own earlier batch, found by verifying the entries against the Cairn of the Winter King page scans (p.8 / p.29).
+- **Fixes**: Ice Scepter — Critical is "+1d8 cold damage per plus" (was wrongly "+2d8 cold damage"); implement label "Rod, Wand, Staff" per the book; encounter power wording "...for the attack rolls and the damage roll"; flavor text added. Crown of Winter — **added the missing Power (Encounter ✦ Cold, Psychic)** (Immediate Reaction: triggering enemy takes 5 cold and psychic damage and is immobilized until the end of its next turn); daily effect reads "You reroll the attack roll and use the new result"; flavor text added.
+- **Source**: verified against page scans of Monster Vault: Cairn of the Winter King (screenshots retained by contributor).
+- **Files touched**: implement/{data19,_index,_listing}.js, item/{data14,_index}.js
 ## 2026-07-12 — Batch: Bound Soul companion (1 new entry)
 
 - **Scope**: companion

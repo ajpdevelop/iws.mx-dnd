@@ -1764,5 +1764,5 @@ od.reader.jsonp_data_listing(20130703, "implement", ["ID", "Name", "Type", "Leve
     ["implement140", "Crystal of Ebon Flame", "Any", "Epic", "", "Artifact", "TPB"],
     ["implement145", "The Deluvian Hourglass", "Any", "Epic", "", "Artifact", "Dun159"],
     ["implement127", "Tome of Shadow", "Orb", "Epic", "", "Artifact", "Open Grave"],
-    ["implement3739", "Ice Scepter", "Rod, staff or wand", "6", "1,800 gp", "Rare", "MV"]
+    ["implement3739", "Ice Scepter", "Rod, Wand, Staff", "6", "1,800 gp", "Rare", "MV"]
 ])
