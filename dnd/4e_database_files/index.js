@@ -25098,5 +25098,6 @@ od.reader.jsonp_name_index(20160808, {
     "varies": "glossary612",
     "troglodyte": "glossary619",
     "ice scepter": "implement3739",
-    "crown of winter": "item3754"
+    "crown of winter": "item3754",
+    "bound soul": "associate115"
 })
