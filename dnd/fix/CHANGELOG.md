@@ -16,7 +16,7 @@ Use one entry per batch. Keep it short and factual.
 
 - **Scope**: companion
 - **Entries**: Bound Soul (associate115, Summoned Creature, Soul Binder paragon path, Dragon 427) — was the open fixes-needed item [Other] "creature from Soul Binder paragon path (D427) is entirely absent."
-- **Source**: heroic4e.com compendium (ID_DRAG427_SOUL); formatted per the Air Archon Grunt summoned-creature template. One normalization: the Hit line reads "your Intelligence, Wisdom, or Charisma modifier" — the source data omitted the word modifier; someone with Dragon 427 in hand should double-check that plus the page number (omitted).
+- **Source**: heroic4e.com compendium (ID_DRAG427_SOUL), formatted per the Air Archon Grunt summoned-creature template, then **verified line-by-line against Dragon 427 p.14**. Corrections from verification: base Hit line keeps "modifier" (as printed); Level 21 line omits it (as printed); Minor Action is At-Will (1/round); standard action carries (necrotic, radiant) keywords; publishedIn page 14 added.
 - **Files touched**: companion/{data15,_index,_listing}.js, catalog.js (companion 193→194), index.js, fix/fixes-needed.json
 - **Validation**: pending
 - **Smoke test**: pending
