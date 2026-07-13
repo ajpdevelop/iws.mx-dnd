@@ -25102,4 +25102,5 @@ od.reader.jsonp_name_index(20160808, {
     "rot slinger decayer": "monster115942",
     "fledgling black dragon": "monster115943",
     "dragonshard augments": "glossary682"
+    "bound soul": "associate115"
 })
